@@ -1,0 +1,46 @@
+﻿У меня нет флешки, как быстро загрузиться с жесткого диска компьютера?
+Для обслуживания ПК, переустановки Windows и т.д. можно загрузиться с жесткого диска.
+Для быстрой загрузки с жесткого диска компьютера:
+
+Извлечь папку SSTR из ISO образа в корень любого диска/раздела, лучше конечно не системного.
+Запустить в папке SSTR файл
+
+Boot_x64_WinPE_11.cmd - для загрузки WinPE11 x64 (запуск от имени Администратора)
+Boot_x64_WinPE_10.cmd - для загрузки WinPE10 x64 (запуск от имени Администратора)
+Boot_x86_WinPE_10.cmd - для загрузки WinPE10 x86 (запуск от имени Администратора)
+
+Компьютер автоматически перезагрузится в среду WinPE.
+После перезагрузки из WinPE, компьютер загрузится в обычном режиме,
+
+После обычной загрузке ПК, удалите запись загрузки WinPE из BCD запустив файл 
+BCD_recovery.cmd (запуск от имени Администратора)
+или удалите вручную программой BOOTICE
+
+Для новичков: если Вы переустанавливаете Windows, с BCD делать ничего не надо.
+Он устанавливается новый.
+
+
+
+===========================================================================
+
+I do not have a flash drive, how do I quickly boot from my computer hard drive?
+To boot quickly from your computer hard drive:
+
+Extract the SSTR folder from the ISO image to the root of any disk / partition, it is better, of course, not the system one.
+Run the file in the SSTR folder 
+
+Boot_x64_WinPE_11.cmd - for loading WinPE11 x64 (run as Administrator)
+Boot_x64_WinPE_10.cmd - for loading WinPE10 x64 (run as Administrator)
+Boot_x86_WinPE_10.cmd - for loading WinPE10 x86 (run as Administrator)
+
+The computer will automatically reboot to WinPE.
+After rebooting from WinPE, the computer will boot normally
+
+After normal PC boot, remove WinPE boot entry from BCD by running the file
+BCD_recovery.cmd (run as Administrator)
+or manually uninstall with BOOTICE
+
+For beginners: if you are reinstalling Windows, you do not need to do anything with the BCD.
+It's already new there.
+
+Google Translate 😉
