@@ -1,0 +1,4 @@
+USB\VID_0BDA&PID_0179,Realtek RTL8188ETV Wireless LAN 802.11n USB 2.0 Network Adapter,netrtwlanu.inf,09/28/2012 v1021.4.0928.2012
+USB\VID_2001&PID_330F,D-Link DWA-125 Wireless N 150 USB Adapter(rev.D),netrtwlanu.inf,09/28/2012 v1021.4.0928.2012
+USB\VID_2001&PID_3310,D-Link DWA-123 Wireless N 150 USB Adapter(rev.D),netrtwlanu.inf,09/28/2012 v1021.4.0928.2012
+USB\VID_2001&PID_3311,D-Link GO-USB-N150 Wireless N 150 Easy USB Adapter(rev.B),netrtwlanu.inf,09/28/2012 v1021.4.0928.2012
