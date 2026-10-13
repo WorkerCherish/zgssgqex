@@ -1,0 +1,262 @@
+BCMIS_NdisLwf,Broadcom IS LW Filter Driver,Wlan.Broadcom.OEM\Dell\bcmis.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_0576&SUBSYS_057614E4,2x2 11a/b/g/n Wireless LAN PCI Express Half Mini Card Adapter,Wlan.Broadcom\E430\bcmwl6.inf,10/14/2014 v7.12.39.12
+PCI\VEN_14E4&DEV_0576,2x2 11a/b/g/n Wireless LAN PCI Express Half Mini Card Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_0576,2x2 11a/b/g/n Wireless LAN PCI Express Half Mini Card Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_0576,2x2 11a/b/g/n Wireless LAN PCI Express Half Mini Card Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4303,Broadcom 802.11b Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4303,Broadcom 802.11b Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4303,Broadcom 802.11b Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4311&SUBSYS_00071028,Dell Wireless 1390 WLAN Mini-Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4311&SUBSYS_00081028,Dell Wireless 1390 WLAN ExpressCard,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4311&SUBSYS_1363103C,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4311&SUBSYS_1364103C,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4311&SUBSYS_1365103C,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4311&SUBSYS_1374103C,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4311&SUBSYS_1375103C,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4311&SUBSYS_1376103C,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4311&SUBSYS_1377103C,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4311,Broadcom 802.11g Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4311,Broadcom 802.11g Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4311,Broadcom 802.11g Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4311,Dell Wireless 1390 WLAN Mini-Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4312&SUBSYS_00071028,Dell Wireless 1490 Dual Band WLAN Mini-Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4312&SUBSYS_00081028,Dell Wireless 1490 Dual Band WLAN ExpressCard,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4312&SUBSYS_135F103C,Broadcom 802.11a/b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4312&SUBSYS_1360103C,Broadcom 802.11a/b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4312&SUBSYS_1361103C,Broadcom 802.11a/b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4312&SUBSYS_1362103C,Broadcom 802.11a/b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4312&SUBSYS_1370103C,Broadcom 802.11a/b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4312&SUBSYS_1371103C,Broadcom 802.11a/b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4312&SUBSYS_1372103C,Broadcom 802.11a/b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4312&SUBSYS_1373103C,Broadcom 802.11a/b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4312,Broadcom 802.11 Multiband Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4312,Broadcom 802.11 Multiband Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4312,Broadcom 802.11 Multiband Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4312,Dell Wireless 1490 Dual Band WLAN Mini-Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4313,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4313,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4313,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4314,Broadcom 802.11 Multiband Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4314,Broadcom 802.11 Multiband Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4314,Broadcom 802.11 Multiband Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4315&SUBSYS_000B1028,Dell Wireless 1395 WLAN Mini-Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4315&SUBSYS_000C1028,Dell Wireless 1397 WLAN Mini-Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4315&SUBSYS_137C103C,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4315&SUBSYS_137D103C,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4315&SUBSYS_1507103C,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4315&SUBSYS_1508103C,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4315&SUBSYS_365E103C,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4315&SUBSYS_365F103C,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4315,Broadcom 802.11g Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4315,Broadcom 802.11g Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4315,Broadcom 802.11g Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4315,Dell Wireless 1395 WLAN Mini-Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4316,Broadcom 802.11a Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4316,Broadcom 802.11a Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4316,Broadcom 802.11a Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4318&SUBSYS_00051028,Dell Wireless 1370 WLAN Mini-PCI Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4318&SUBSYS_00061028,Dell Wireless 1370 WLAN PC Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4318&SUBSYS_1355103C,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4318&SUBSYS_1356103C,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4318&SUBSYS_1357103C,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4318,Broadcom 802.11g Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4318,Broadcom 802.11g Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4318,Broadcom 802.11g Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4318,Dell TrueMobile 1300 WLAN Mini-PCI Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4319&SUBSYS_00051028,Dell Wireless 1470 Dual Band WLAN Mini-PCI Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4319&SUBSYS_00061028,Dell Wireless 1470 Dual Band WLAN PC Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4319&SUBSYS_1358103C,Broadcom 802.11a/b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4319&SUBSYS_1359103C,Broadcom 802.11a/b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4319&SUBSYS_135A103C,Broadcom 802.11a/b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4319,Broadcom 802.11 Multiband Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4319,Broadcom 802.11 Multiband Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4319,Broadcom 802.11 Multiband Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4319,Dell TrueMobile 1400 Dual Band WLAN Mini-PCI Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_431A,Broadcom 802.11a Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_431A,Broadcom 802.11a Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_431A,Broadcom 802.11a Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4320&REV_03,Broadcom 802.11g Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4320&REV_03,Broadcom 802.11g Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4320&REV_03,Broadcom 802.11g Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4320&REV_03,Dell TrueMobile 1300 WLAN Mini-PCI Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4320&SUBSYS_00011028&REV_03,Dell TrueMobile 1300 WLAN Mini-PCI Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4320&SUBSYS_00021028&REV_03,Dell TrueMobile 1300 WLAN PC Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4320&SUBSYS_00031028&REV_03,Dell Wireless 1350 WLAN Mini-PCI Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4320&SUBSYS_00041028&REV_03,Dell Wireless 1350 WLAN PC Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4320&SUBSYS_00E70E11&REV_03,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4320&SUBSYS_12F4103C&REV_03,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4320&SUBSYS_12F8103C&REV_03,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4320&SUBSYS_12FA103C&REV_03,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4320&SUBSYS_12FB103C&REV_03,Broadcom 802.11b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4321&REV_03,Broadcom 802.11a Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4321&REV_03,Broadcom 802.11a Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4321&REV_03,Broadcom 802.11a Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4322,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4322,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4322,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4324&REV_03,Broadcom 802.11 Multiband Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4324&REV_03,Broadcom 802.11 Multiband Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4324&REV_03,Broadcom 802.11 Multiband Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4324&REV_03,Dell TrueMobile 1400 Dual Band WLAN Mini-PCI Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4324&SUBSYS_00011028&REV_03,Dell TrueMobile 1400 Dual Band WLAN Mini-PCI Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4324&SUBSYS_00021028&REV_03,Dell TrueMobile 1400 Dual Band WLAN PC Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4324&SUBSYS_00031028&REV_03,Dell Wireless 1450 Dual Band WLAN Mini-PCI Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4324&SUBSYS_00041028&REV_03,Dell Wireless 1450 Dual Band WLAN PC Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4324&SUBSYS_12F9103C&REV_03,Broadcom 802.11a/b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4324&SUBSYS_12FC103C&REV_03,Broadcom 802.11a/b/g WLAN,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4328&SUBSYS_00091028,Dell Wireless 1500 802.11n WLAN Mini-Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4328&SUBSYS_000A1028,Dell Wireless 1505 802.11n WLAN Mini-Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4328&SUBSYS_1366103C,Broadcom 4321AG 802.11a/b/g/n Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4328&SUBSYS_1367103C,Broadcom 4321AG 802.11a/b/g/n Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4328&SUBSYS_1368103C,Broadcom 4321AG 802.11a/b/g/n Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4328&SUBSYS_1369103C,Broadcom 4321AG 802.11a/b/g/n Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4328,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4328,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4328,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4328,Dell Wireless 1500 802.11n WLAN Mini-Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4329,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4329,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4329,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_432A,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_432A,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_432A,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_432b&SUBSYS_000D1028,Dell Wireless 1510 Wireless-N WLAN Mini-Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_432B&SUBSYS_137F103C,Broadcom 4322AG 802.11a/b/g/n Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_432B&SUBSYS_1380103C,Broadcom 4322AG 802.11a/b/g/n Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_432B&SUBSYS_1509103C,Broadcom 4322AG 802.11a/b/g/n Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_432B&SUBSYS_1510103C,Broadcom 4322AG 802.11a/b/g/n Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_432b,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_432b,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_432b,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_432c,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_432c,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_432c,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4331,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4331,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4331,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4332,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4332,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4333,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4333,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4335,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4340,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4340,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4340,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4341,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4341,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4341,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4350,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4350,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4350,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4351,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4351,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4351,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4353&SUBSYS_000E1028,DW1520 Wireless-N WLAN Half-Mini Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4353&SUBSYS_1509103C,Broadcom 43224AGN 802.11a/b/g/n 2x2 Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4353&SUBSYS_1510103C,Broadcom 43224AGN 802.11a/b/g/n 2x2 Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4353,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4353,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4353,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4354,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4354,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4354,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4357&SUBSYS_057014E4,Broadcom WLAN Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4357&SUBSYS_145E103C,Broadcom 43225 802.11b/g/n,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4357,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4357,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4357,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4358,2x2 11b/g/n Wireless LAN PCI Express Half Mini Card Adapter,Wlan.Broadcom\E430\bcmwl6.inf,10/14/2014 v7.12.39.12
+PCI\VEN_14E4&DEV_4358,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4358,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4358,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4358,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_7.35.338.0\oem26.inf,12/10/2015 v7.35.338.0
+PCI\VEN_14E4&DEV_4359&SUBSYS_00111028,DW1530 Wireless-N WLAN Half-Mini Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4359&SUBSYS_00141028,Dell Wireless 1540 802.11a/g/n (2.4GHz/5GHz),Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4359&SUBSYS_05E214E4,Broadcom BCM943228HMB 802.11abgn 2x2 Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4359&SUBSYS_060714E4,2x2 11a/b/g/n Wireless LAN PCI Express Half Mini Card Adapter,Wlan.Broadcom\E430\bcmwl6.inf,10/14/2014 v7.12.39.12
+PCI\VEN_14E4&DEV_4359&SUBSYS_182C103C,Broadcom BCM943228HM4L 802.11a/b/g/n 2x2 WiFi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4359&SUBSYS_2135103C,Broadcom BCM943228HMB 802.11abgn 2x2 Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4359&SUBSYS_22D5103C,Broadcom BCM943228HMB 802.11abgn 2x2 Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4359&SUBSYS_8088103C,Broadcom BCM943228Z 802.11abgn 2x2 M.2 Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4359&SUBSYS_8147103C,Broadcom BCM943228Z 802.11abgn 2x2 M.2 Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4359,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4359,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4359,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4359,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_7.35.338.0\oem26.inf,12/10/2015 v7.35.338.0
+PCI\VEN_14E4&DEV_435A,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_435A,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_435A,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4360,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4364,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4364,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4365&SUBSYS_00161028,Dell Wireless 1704 802.11b/g/n (2.4GHz),Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4365&SUBSYS_00181028,Dell Wireless 1708 802.11b/g/n (2.4GHz),Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4365,1x1 11b/g/n Wireless LAN PCI Express Half Mini Card Adapter,Wlan.Broadcom\E430\bcmwl6.inf,10/14/2014 v7.12.39.12
+PCI\VEN_14E4&DEV_4365,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4365,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4365,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_7.35.338.0\oem26.inf,12/10/2015 v7.35.338.0
+PCI\VEN_14E4&DEV_43A0,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_43A0,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_7.35.338.0\oem26.inf,12/10/2015 v7.35.338.0
+PCI\VEN_14E4&DEV_43A2,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_43A3,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_43A9,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_43AA,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_43AE,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_43AE,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_7.35.338.0\oem26.inf,12/10/2015 v7.35.338.0
+PCI\VEN_14E4&DEV_43AE,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\E430\bcmwl6.inf,10/14/2014 v7.12.39.12
+PCI\VEN_14E4&DEV_43B1&SUBSYS_00171028,Dell Wireless 1550 802.11ac,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_43B1&SUBSYS_00191028,Dell Wireless 1560 802.11ac,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_43B1&SUBSYS_2007103C,Broadcom BCM4352Z 802.11ac 2x2 Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_43B1&SUBSYS_2154103C,Broadcom BCM4352HMB 802.11ac 2x2 Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_43B1,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_43B1,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_7.35.338.0\oem26.inf,12/10/2015 v7.35.338.0
+PCI\VEN_14E4&DEV_43B1,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\E430\bcmwl6.inf,10/14/2014 v7.12.39.12
+PCI\VEN_14E4&DEV_43B2,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_43B3,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4716,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4716,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4716,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4722,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4722,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4722,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4727&SUBSYS_00101028,DW1501 Wireless-N WLAN Half-Mini Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4727&SUBSYS_00121028,Dell Wireless 1701 802.11b/g/n,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4727&SUBSYS_00131028,DW1503 Wireless-N WLAN Half-Mini Card,Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4727&SUBSYS_00151028,Dell Wireless 1504 802.11b/g/n (2.4GHz),Wlan.Broadcom.OEM\Dell\bcmwl6.inf,02/05/2014 v6.30.223.228
+PCI\VEN_14E4&DEV_4727&SUBSYS_060814E4,1x1 11b/g/n Wireless LAN PCI Express Half Mini Card Adapter,Wlan.Broadcom\E430\bcmwl6.inf,10/14/2014 v7.12.39.12
+PCI\VEN_14E4&DEV_4727&SUBSYS_060914E4,1x1 11b/g/n Wireless LAN PCI Express Half Mini Card Adapter,Wlan.Broadcom\E430\bcmwl6.inf,10/14/2014 v7.12.39.12
+PCI\VEN_14E4&DEV_4727&SUBSYS_145C103C,Broadcom 4313GN 802.11b/g/n 1x1 Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4727&SUBSYS_1483103C,Broadcom 4313GN 802.11b/g/n 1x1 Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4727&SUBSYS_1795103C,Broadcom 4313GN 802.11b/g/n 1x1 Wi-Fi Adapter,Wlan.Broadcom.OEM\HP\bcmwl6.inf,03/30/2015 v6.30.223.264
+PCI\VEN_14E4&DEV_4727,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_4727,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_4727,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_A87B,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_A886,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_A886,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_A8D6,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_A8D6,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_A8D6,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_A8D8,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_A8D8,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_A8D8,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_A8DA,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_A8DA,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_A8DA,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_A8DB,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_A8DB,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_A8DB,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_A8DB,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_A8DC,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Asus\bcmwl6.inf,03/21/2012 v6.20.55.51
+PCI\VEN_14E4&DEV_A8DC,Broadcom 802.11n Network Adapter,Wlan.Broadcom.OEM\Lenovo\bcmwl6.inf,10/26/2011 v5.100.82.112
+PCI\VEN_14E4&DEV_A8DC,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+root\BcmVWL,Broadcom Virtual Wireless Adapter,Wlan.Broadcom.OEM\Dell\bcmvwl.inf,02/05/2014 v6.30.223.228
+SD\VID_02D0&PID_4330&FN_1,Broadcom 802.11abgn Wireless SDIO Adapter,Wlan.Broadcom\BCM4330\bcmdhd63.inf,10/18/2012 v5.93.97.83
+USB\VID_0A5C&PID_43A2,BT802.11ac Wireless USB Adapter,Wlan.Broadcom\USB\0A5C\bcmwlhigh6.inf,02/05/2013 v6.30.145.26
+USB\VID_0A5C&PID_BD13,BT Dual-Band Wi-Fi Dongle,Wlan.Broadcom\USB\0A5C\bcmwlhigh6.inf,02/05/2013 v6.30.145.26
+USB\VID_0A5C&PID_BD16,BT Dual-Band Wi-Fi Dongle,Wlan.Broadcom\USB\0A5C\bcmwlhigh6.inf,02/05/2013 v6.30.145.26
+USB\VID_0A5C&PID_BD17,BT Dual-Band Wi-Fi Dongle,Wlan.Broadcom\USB\0A5C\bcmwlhigh6.inf,02/05/2013 v6.30.145.26
+USB\VID_0A5C&PID_BD1D,BT802.11ac Wireless USB Adapter,Wlan.Broadcom\USB\0A5C\bcmwlhigh6.inf,02/05/2013 v6.30.145.26
+USB\VID_0A5C&PID_BD1E,BT Dual-Band Wi-Fi Dongle,Wlan.Broadcom\USB\0A5C\bcmwlhigh6.inf,02/05/2013 v6.30.145.26
+USB\VID_0A5C&PID_BD1F,BT Dual-Band Wi-Fi Dongle,Wlan.Broadcom\USB\0A5C\bcmwlhigh6.inf,02/05/2013 v6.30.145.26
+USB\VID_0B05&PID_17C9,ASUS 802.11ac Wireless USB Adapter,Wlan.Broadcom\USB\0B05\bcmwlhigh6.inf,11/15/2012 v6.30.145.9
