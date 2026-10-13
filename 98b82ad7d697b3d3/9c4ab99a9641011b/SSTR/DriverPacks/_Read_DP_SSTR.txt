@@ -1,0 +1,334 @@
+
+  DP_SSTR_2025-04-04 (апрель-2025г.)  
+
+
+ Оптимизированные драйверы для использования в SSTR PE8\10x86 и PE10х64.
+
+ Все драйверы пригодны для установщика SDI, DevInst, т.е. через меню DRIVERS после загрузки SSTR.
+
+ Драйверы в каталоге Drivers\NT5x32 предназначены для поддержки устаревших аудиокарт в PE8\10x86. 
+
+
+ Использование DP_SSTR_2025-04-04: заменить полностью каталог DriverPacks в SSTR. 
+
+
+--------------------------------------------------------------------------------------------------
+
+ Список изменений 04 апреля 2025г., DP_SSTR_2025-04-04:
+ 
+
+  Обновлены Video_IN2_x64(2502), повышена стабильность 2nd Generation Intel® SandyBridge HD Graphics
+
+ Драйвер INTEL Graphics 9.17.10.4459 Windows 7/8/8.1/10/11 (64 bit), каталог IG917104459_NT6x64.     
+
+ DriverVer = 05/19/2016,9.17.10.4459. Отключены OpenCL, OpenGL, ControlPanel.
+
+
+  Обновлены Video_NV3_10x86(2502), добавлены видеоадаптеры из списка поддерживаемых драйверов "снизу"
+
+ Драйвер NVIDIA Vulkan 389.20 Windows 10 (32 bit) Mobility Modded, каталог VK38920_NT10x32.     
+
+ DriverVer = 03/28/2018, 23.21.13.8920,  GeForce 600/700/800/900/1000/Quadro M series. 
+ 
+
+ NVIDIA_DEV.0DC0 = "(PE) NVIDIA Vulkan GeForce GT 440"
+ NVIDIA_DEV.0DC1 = "(PE) NVIDIA Vulkan D12-P1-35"
+ NVIDIA_DEV.0DC2 = "(PE) NVIDIA Vulkan D12-P1-35"
+ NVIDIA_DEV.0DC4 = "(PE) NVIDIA Vulkan GeForce GTS 450"
+ NVIDIA_DEV.0DC5 = "(PE) NVIDIA Vulkan GeForce GTS 450"
+ NVIDIA_DEV.0DC6 = "(PE) NVIDIA Vulkan GeForce GTS 450"
+ NVIDIA_DEV.0DCA = "(PE) NVIDIA Vulkan GF10x"
+ NVIDIA_DEV.0DCC = "(PE) NVIDIA Vulkan N12E-GS"
+ NVIDIA_DEV.0DCD = "(PE) NVIDIA Vulkan GeForce GT 555M"
+ NVIDIA_DEV.0DCE = "(PE) NVIDIA Vulkan GeForce GT 555M"
+ NVIDIA_DEV.0DCF = "(PE) NVIDIA Vulkan N12P-GT-B"
+ NVIDIA_DEV.0DD0 = "(PE) NVIDIA Vulkan N11E-GT"
+ NVIDIA_DEV.0DD1 = "(PE) NVIDIA Vulkan GeForce GTX 460M"
+ NVIDIA_DEV.0DD2 = "(PE) NVIDIA Vulkan GeForce GT 445M"
+ NVIDIA_DEV.0DD3 = "(PE) NVIDIA Vulkan GeForce GT 435M"
+ NVIDIA_DEV.0DD6 = "(PE) NVIDIA Vulkan GeForce GT 550M"
+ NVIDIA_DEV.0DD8 = "(PE) NVIDIA Vulkan Quadro 2000/2000D"
+ NVIDIA_DEV.0DDA = "(PE) NVIDIA Vulkan Quadro 2000M"
+ NVIDIA_DEV.0DDE = "(PE) NVIDIA Vulkan GF106-ES"
+ NVIDIA_DEV.0DDF = "(PE) NVIDIA Vulkan GF106-INT"
+ NVIDIA_DEV.0DE0 = "(PE) NVIDIA Vulkan GeForce GT 440"
+ NVIDIA_DEV.0DE1 = "(PE) NVIDIA Vulkan GeForce GT 430"
+ NVIDIA_DEV.0DE2 = "(PE) NVIDIA Vulkan GeForce GT 420"
+ NVIDIA_DEV.0DE3 = "(PE) NVIDIA Vulkan GeForce GT 635M"
+ NVIDIA_DEV.0DE4 = "(PE) NVIDIA Vulkan GeForce GT 520"
+ NVIDIA_DEV.0DE5 = "(PE) NVIDIA Vulkan GeForce GT 530"
+ NVIDIA_DEV.0DE7 = "(PE) NVIDIA Vulkan GeForce GT 610"
+ NVIDIA_DEV.0DE8 = "(PE) NVIDIA Vulkan GeForce GT 620M"
+ NVIDIA_DEV.0DE9 = "(PE) NVIDIA Vulkan GeForce GT 630M"
+ NVIDIA_DEV.0DEA = "(PE) NVIDIA Vulkan GeForce 610M"
+ NVIDIA_DEV.0DEB = "(PE) NVIDIA Vulkan GeForce GT 555M"
+ NVIDIA_DEV.0DEC = "(PE) NVIDIA Vulkan GeForce GT 525M"
+ NVIDIA_DEV.0DED = "(PE) NVIDIA Vulkan GeForce GT 520M"
+ NVIDIA_DEV.0DEE = "(PE) NVIDIA Vulkan GeForce GT 415M"
+ NVIDIA_DEV.0DEF = "(PE) NVIDIA Vulkan NVS 5400M"
+ NVIDIA_DEV.0DF0 = "(PE) NVIDIA Vulkan GeForce GT 425M"
+ NVIDIA_DEV.0DF1 = "(PE) NVIDIA Vulkan GeForce GT 420M"
+ NVIDIA_DEV.0DF2 = "(PE) NVIDIA Vulkan GeForce GT 435M"
+ NVIDIA_DEV.0DF3 = "(PE) NVIDIA Vulkan GeForce GT 420M"
+ NVIDIA_DEV.0DF4 = "(PE) NVIDIA Vulkan GeForce GT 540M/630M"
+ NVIDIA_DEV.0DF5 = "(PE) NVIDIA Vulkan GeForce GT 525M"
+ NVIDIA_DEV.0DF6 = "(PE) NVIDIA Vulkan GeForce GT 550M"
+ NVIDIA_DEV.0DF7 = "(PE) NVIDIA Vulkan GeForce GT 520M"
+ NVIDIA_DEV.0DF8 = "(PE) NVIDIA Vulkan Quadro 600"
+ NVIDIA_DEV.0DF9 = "(PE) NVIDIA Vulkan Quadro 500M"
+ NVIDIA_DEV.0DFA = "(PE) NVIDIA Vulkan Quadro 1000M"
+ NVIDIA_DEV.0DFC = "(PE) NVIDIA Vulkan NVS 5200M"
+ NVIDIA_DEV.0DFE = "(PE) NVIDIA Vulkan GF108 ES"
+ NVIDIA_DEV.0DFF = "(PE) NVIDIA Vulkan GF108 INT"
+ NVIDIA_DEV.0E21 = "(PE) NVIDIA Vulkan D12U-25"
+ NVIDIA_DEV.0E22 = "(PE) NVIDIA Vulkan GeForce GTX 460"
+ NVIDIA_DEV.0E23 = "(PE) NVIDIA Vulkan GeForce GTX 460 SE"
+ NVIDIA_DEV.0E24 = "(PE) NVIDIA Vulkan GeForce GTX 460"
+ NVIDIA_DEV.0E25 = "(PE) NVIDIA Vulkan D12U-50"
+ NVIDIA_DEV.0E28 = "(PE) NVIDIA Vulkan GeForce GTX 460"
+ NVIDIA_DEV.0E30 = "(PE) NVIDIA Vulkan GeForce GTX 470M"
+ NVIDIA_DEV.0E31 = "(PE) NVIDIA Vulkan GeForce GTX 485M"
+ NVIDIA_DEV.0E32 = "(PE) NVIDIA Vulkan N12E-GT"
+ NVIDIA_DEV.0E38 = "(PE) NVIDIA Vulkan GF104GL"
+ NVIDIA_DEV.0E3A = "(PE) NVIDIA Vulkan Quadro 3000M"
+ NVIDIA_DEV.0E3B = "(PE) NVIDIA Vulkan Quadro 4000M"
+ NVIDIA_DEV.0E3C = "(PE) NVIDIA Vulkan EXMF 104"
+ NVIDIA_DEV.0E3E = "(PE) NVIDIA Vulkan GF104-ES"
+ NVIDIA_DEV.0E3F = "(PE) NVIDIA Vulkan GF104-INT"
+ NVIDIA_DEV.0F00 = "(PE) NVIDIA Vulkan GeForce GT 630"
+ NVIDIA_DEV.0F01 = "(PE) NVIDIA Vulkan GeForce GT 620"
+ NVIDIA_DEV.0F02 = "(PE) NVIDIA Vulkan GeForce GT 730"
+ NVIDIA_DEV.0FC0 = "(PE) NVIDIA Vulkan GeForce GT 640"
+ NVIDIA_DEV.0FC1 = "(PE) NVIDIA Vulkan GeForce GT 640"
+ NVIDIA_DEV.0FC2 = "(PE) NVIDIA Vulkan GeForce GT 630"
+ NVIDIA_DEV.0FC4 = "(PE) NVIDIA Vulkan D14P1-15"
+ NVIDIA_DEV.0FC5 = "(PE) NVIDIA Vulkan D15M2-03"
+ NVIDIA_DEV.0FC6 = "(PE) NVIDIA Vulkan GeForce GTX 650"
+ NVIDIA_DEV.0FC8 = "(PE) NVIDIA Vulkan GeForce GT 740"
+ NVIDIA_DEV.0FCB = "(PE) NVIDIA Vulkan EXK107"
+ NVIDIA_DEV.0FCD = "(PE) NVIDIA Vulkan GeForce GT 755M"
+ NVIDIA_DEV.0FCE = "(PE) NVIDIA Vulkan GeForce GT 640M LE"
+ NVIDIA_DEV.0FCF = "(PE) NVIDIA Vulkan GEN3 ESI"
+ NVIDIA_DEV.0FD0 = "(PE) NVIDIA Vulkan NB1G"
+ NVIDIA_DEV.0FD1 = "(PE) NVIDIA Vulkan GeForce GT 650M / N13P-GT"
+ NVIDIA_DEV.0FD2 = "(PE) NVIDIA Vulkan GeForce GT 640M / N13P-GS"
+ NVIDIA_DEV.0FD3 = "(PE) NVIDIA Vulkan GeForce GT 640M LE"
+ NVIDIA_DEV.0FD4 = "(PE) NVIDIA Vulkan GeForce GTX 660M / N13E-GE"
+ NVIDIA_DEV.0FD5 = "(PE) NVIDIA Vulkan GeForce GTX 650M"
+ NVIDIA_DEV.0FD8 = "(PE) NVIDIA Vulkan GeForce GT 640M"
+ NVIDIA_DEV.0FD9 = "(PE) NVIDIA Vulkan GeForce GT 645M"
+ NVIDIA_DEV.0FDA = "(PE) NVIDIA Vulkan GK107-ES-A1"
+ NVIDIA_DEV.0FDB = "(PE) NVIDIA Vulkan GK107-ESP-A1"
+ NVIDIA_DEV.0FDC = "(PE) NVIDIA Vulkan GK107-INT22-A1"
+ NVIDIA_DEV.0FDF = "(PE) NVIDIA Vulkan GeForce GT 740M"
+ NVIDIA_DEV.0FE0 = "(PE) NVIDIA Vulkan GeForce GTX 660M"
+ NVIDIA_DEV.0FE1 = "(PE) NVIDIA Vulkan GeForce GT 730M"
+ NVIDIA_DEV.0FE2 = "(PE) NVIDIA Vulkan GeForce GT 745M"
+ NVIDIA_DEV.0FE3 = "(PE) NVIDIA Vulkan GeForce GT 745M"
+ NVIDIA_DEV.0FE4 = "(PE) NVIDIA Vulkan GeForce GT 750M"
+ NVIDIA_DEV.0FE5 = "(PE) NVIDIA Vulkan GeForce K340 USM"
+ NVIDIA_DEV.0FE6 = "(PE) NVIDIA Vulkan NVS K1 USM"
+ NVIDIA_DEV.0FE7 = "(PE) NVIDIA Vulkan Generic K1 USM"
+ NVIDIA_DEV.0FE9 = "(PE) NVIDIA Vulkan GeForce GT 750M"
+ NVIDIA_DEV.0FEA = "(PE) NVIDIA Vulkan GeForce GT 755M"
+ NVIDIA_DEV.0FEF = "(PE) NVIDIA Vulkan GRID K340"
+ NVIDIA_DEV.0FF0 = "(PE) NVIDIA Vulkan NB1Q"
+ NVIDIA_DEV.0FF1 = "(PE) NVIDIA Vulkan NVS 1000"
+ NVIDIA_DEV.0FF2 = "(PE) NVIDIA Vulkan GRID K1"
+ NVIDIA_DEV.0FF3 = "(PE) NVIDIA Vulkan Quadro K420"
+ NVIDIA_DEV.0FF5 = "(PE) NVIDIA Vulkan Tesla K1 USM"
+ NVIDIA_DEV.0FF6 = "(PE) NVIDIA Vulkan Quadro K1100M"
+ NVIDIA_DEV.0FF7 = "(PE) NVIDIA Vulkan Quadro K1 USM"
+ NVIDIA_DEV.0FF8 = "(PE) NVIDIA Vulkan Quadro K500M"
+ NVIDIA_DEV.0FF9 = "(PE) NVIDIA Vulkan Quadro K2000D"		
+ NVIDIA_DEV.0FFA = "(PE) NVIDIA Vulkan Quadro K600"
+ NVIDIA_DEV.0FFB = "(PE) NVIDIA Vulkan Quadro K2000M"
+ NVIDIA_DEV.0FFC = "(PE) NVIDIA Vulkan Quadro K1000M"
+ NVIDIA_DEV.0FFD = "(PE) NVIDIA Vulkan NVS 510"
+ NVIDIA_DEV.0FFE = "(PE) NVIDIA Vulkan Quadro K2000"
+ NVIDIA_DEV.0FFF = "(PE) NVIDIA Vulkan Quadro 410"
+ NVIDIA_DEV.109A = "(PE) NVIDIA Vulkan Quadro 5010M"
+ NVIDIA_DEV.109B = "(PE) NVIDIA Vulkan Quadro 7000"
+
+
+  Обновлены(подправлены) пользователем с ником oldof драйверы для WLANDRIVER
+  
+ WLANDRIVER\NT6x32\1.7z с индексом 1.txt,
+ WLANDRIVER\NT6x32\WLAN1_x86(2202).7z с индексом WLAN1_x86(2202).txt
+ WLANDRIVER\NT6x64\WLAN3_x64(2202).7z с индексом WLAN3_x64(2202).index .txt 
+
+ Список изменений с форума http://forum.ru-board.com/topic.cgi?forum=62&topic=24098&start=1220#4
+
+ В архивы WLAN1_x86(2202).7z и WLAN3_x64(2202).7z в папку Wlan.Atheros\USB добавил папку AR9271 с 
+драйвером под Philips PTA-01 Wireless USB Adapter и TP-LINK Wireless USB Adapter. 
+Там в netathur.inf всего две строчки с идентификаторами, а первый адаптер у меня в наличии и даже
+частенько пользуется в Hyper-V или вне дома и даже не обязательно в WinPE да и на компьютерах не
+имеющих собственные диски с системами и без.
+ В файл NT6x32\1.zip добавил папку athw8 с драйвером 10/29/2014,10.0.0.293 и скорректировал в 
+1.txt всего одну строку под WiFi своего ноутбука, иначе не работает оно с драйвером 10/17/2013,
+10.0.0.270 из папки athwb.                 
+
+ 
+==================================================================================================
+ 31-Mar-2025 nat27 http://forum.ru-board.com/topic.cgi?forum=62&topic=24098&start=71&limit=1&m=1#1
+==================================================================================================
+ 
+ 
+   При использовании драйверов Intel Graphics необходимо учитывать поддержку в ОС от производителя.
+
+ По указанной ссылке, можно узнать поддерживается ли видеоадаптер в определенной операционной системе.
+
+ http://www.intel.ru/content/www/ru/ru/support/graphics-drivers/000005526.html
+
+
+  В РЕ-модификации драйверов Intel Graphics есть особенности. В зависимости от алгоритма определения
+
+ активного монитора оборудованием системной платы, может наблюдаться вывод изображения на "неосновной"
+
+ экран. Так, например, на некоторых системных платах Gigabyte, после инициализации драйвера, изображение 
+
+ пропадает с DB-15 разъема(обычный 15-пиновый) и появляется на цифровом HDMI к которому ничего не
+
+ подключено. На некоторых ноутбуках\моноблоках после установки драйвера изображение "переходит" на
+
+ разъем для внешнего монитора, что сопровождается явлением "черного экрана" на основной панели. 
+
+
+  Начиная с версии 396 прекращен выпуск драйверов для 32-bit ОС и устаревших адаптеров NVidia Fermi
+
+ GPU 400/500 Series. В Video_NV3_х86\10x86 используется драйвер NVidia Vulkan 389.20. Обновление
+
+ драйверпака Video_NV3_х86\10x86 более не планируется по указанной выше причине. 
+
+ Поддержка NVidia Fermi GPU, Kepler и пр.устаревших GPU для х64 ОС осуществляется драйвером
+
+ NVidia Game Ready 391.35 в Video_NV2_х64\10х64, а для современных видеокарт добавлен
+
+ Video_NV3_x64\10х64 на основе NVIDIA Vulkan 457.96 (PE7,8x64), 532.04(PE10x64,PE11x64).
+
+  С октября 2021 года обновления драйверов GPU NVIDIA доступны исключительно для Windows 10\11. 
+
+--------------------------------------------------------------------------------------------------
+
+ Список изменений 06 июня 2023г., DP_SSTR_2023-06-06:
+ 
+
+  Обновлены Video_NV3_10x64(2306), DriverVer = 05/19/2023, 31.0.15.3204, NVIDIA Vulkan 532.04
+
+ Добавлены, *переименованы или изменен тип mobile\desktop 
+
+ NVIDIA_DEV.2080 = "(PE64) NVIDIA Vulkan GRID A100"
+ NVIDIA_DEV.2081 = "(PE64) NVIDIA Vulkan GRID A100"
+ NVIDIA_DEV.2082 = "(PE64) NVIDIA Vulkan GRID A100 (CMP 170HX)"
+ NVIDIA_DEV.20B4 = "(PE64) NVIDIA Vulkan GRID A100"
+ NVIDIA_DEV.20C0 = "(PE64) NVIDIA Vulkan GRID A100"
+ NVIDIA_DEV.20FD = "(PE64) NVIDIA Vulkan GRID A100T"
+ NVIDIA_DEV.20FE = "(PE64) NVIDIA Vulkan GRID A100"
+ NVIDIA_DEV.20FF = "(PE64) NVIDIA Vulkan GRID A100"
+ NVIDIA_DEV.21C2 = "(PE64) NVIDIA Vulkan TU116"
+ NVIDIA_DEV.2200 = "(PE64) NVIDIA Vulkan GA102"
+ NVIDIA_DEV.2302 = "(PE64) NVIDIA Vulkan GH100"
+ NVIDIA_DEV.2313 = "(PE64) NVIDIA Vulkan GH100"
+*NVIDIA_DEV.2321 = "(PE64) NVIDIA Vulkan GH100"
+ NVIDIA_DEV.2322 = "(PE64) NVIDIA Vulkan H800 PCIe"
+ NVIDIA_DEV.2324 = "(PE64) NVIDIA Vulkan H800"
+ NVIDIA_DEV.2330 = "(PE64) NVIDIA Vulkan H100 80GB HBM3"
+ NVIDIA_DEV.2331 = "(PE64) NVIDIA Vulkan H100 PCIe"
+ NVIDIA_DEV.2336 = "(PE64) NVIDIA Vulkan H100"
+ NVIDIA_DEV.2339 = "(PE64) NVIDIA Vulkan H100"
+ NVIDIA_DEV.249F = "(PE64) NVIDIA Vulkan GA104M"
+ NVIDIA_DEV.24C7 = "(PE64) NVIDIA Vulkan GeForce RTX 3060"
+ NVIDIA_DEV.24C8 = "(PE64) NVIDIA Vulkan GeForce RTX 3070 GDDR6X"
+ NVIDIA_DEV.2582 = "(PE64) NVIDIA Vulkan GeForce RTX 3050"
+ NVIDIA_DEV.25AB = "(PE64) NVIDIA Vulkan GeForce RTX 3050 4GB Laptop GPU"
+ NVIDIA_DEV.25AC = "(PE64) NVIDIA Vulkan GeForce RTX 3050 6GB Laptop GPU"
+ NVIDIA_DEV.25AD = "(PE64) NVIDIA Vulkan GeForce RTX 2050"
+ NVIDIA_DEV.25BC = "(PE64) NVIDIA Vulkan RTX A1000 6GB Laptop GPU"
+ NVIDIA_DEV.25BD = "(PE64) NVIDIA Vulkan RTX A500 Laptop GPU"
+ NVIDIA_DEV.25EC = "(PE64) NVIDIA Vulkan GeForce RTX 3050 6GB Laptop GPU"
+ NVIDIA_DEV.25ED = "(PE64) NVIDIA Vulkan GeForce RTX 2050"
+ NVIDIA_DEV.2681 = "(PE64) NVIDIA Vulkan RTX TITAN Ada"
+ NVIDIA_DEV.26B2 = "(PE64) NVIDIA Vulkan RTX 5000 Ada Generation"
+ NVIDIA_DEV.2730 = "(PE64) NVIDIA Vulkan RTX 5000 Ada Generation Laptop GPU"
+ NVIDIA_DEV.2782 = "(PE64) NVIDIA Vulkan GeForce RTX 4070 Ti"
+ NVIDIA_DEV.27B0 = "(PE64) NVIDIA Vulkan RTX 4000 SFF Ada Generation"
+ NVIDIA_DEV.27BA = "(PE64) NVIDIA Vulkan RTX 4000 Ada Generation Laptop GPU"
+ NVIDIA_DEV.27BB = "(PE64) NVIDIA Vulkan RTX 3500 Ada Generation Laptop GPU"
+*NVIDIA_DEV.2820 = "(PE64) NVIDIA Vulkan GeForce RTX 4070 Max-Q / Mobile"
+ NVIDIA_DEV.2838 = "(PE64) NVIDIA Vulkan RTX 3000 Ada Generation Laptop GPU"
+*NVIDIA_DEV.2860 = "(PE64) NVIDIA Vulkan GeForce RTX 4070 Max-Q / Mobile"
+*NVIDIA_DEV.28A0 = "(PE64) NVIDIA Vulkan GeForce RTX 4060 Max-Q / Mobile"
+*NVIDIA_DEV.28A1 = "(PE64) NVIDIA Vulkan GeForce RTX 4050 Max-Q / Mobile"
+ NVIDIA_DEV.28B8 = "(PE64) NVIDIA Vulkan RTX 2000 Ada Generation Laptop GPU"
+*NVIDIA_DEV.28E0 = "(PE64) NVIDIA Vulkan GeForce RTX 4060 Max-Q / Mobile"
+*NVIDIA_DEV.28E1 = "(PE64) NVIDIA Vulkan GeForce RTX 4050 Max-Q / Mobile"
+
+  Обновлен Video_IN5_10x64(2306) путем пересборки из Video_IN6_10x64(2208),
+ 
+  DriverVer = 02/03/2022, 30.0.101.1340, поддерживаются:
+
+ 6th Gen Intel(R) Core(TM) processor family (Codename Skylake)
+ 7th Gen Intel(R) Core(TM) processor family (Codename Kaby Lake)
+ 8th Gen Intel(R) Core(TM) processor family (Codename Kaby Lake-R, Coffee Lake, Whiskey Lake)
+ 9th Gen Intel(R) Core(TM) processor family (Codename Coffee Lake-R)
+ 10th Gen Intel® Core™ processor family (Codename Comet Lake, Amber Lake, Ice Lake)
+ 11th Gen Intel(R) Core(TM) processor family (Codename Tiger Lake, Rocket Lake, Tiger Lake-H)
+ 12th Gen Intel(R) Core(TM) processor family (Codename Alder Lake)
+ Intel(R) Core(TM) Processor with Intel(R) Hybrid Technology (Codename Lakefield)
+ Intel® Atom®, Pentium® and Celeron® processor family (Codename Apollo Lake, Elkhart Lake)
+ Intel® Pentium® and Celeron® processor family (Codename Gemini Lake, Jasper Lake)
+
+  Драйвер Video_IN5_10x64(1811) удален. 
+
+--------------------------------------------------------------------------------------------------
+
+ Список изменений 12 декабря 2022г., DP_SSTR_2022-12-12:
+ 
+
+  Обновлены Video_NV3_10x64(2212), DriverVer = 11/17/2022, 31.0.15.1783, NVIDIA Vulkan 517.83
+
+ Добавлены, *переименованы или изменен тип mobile\desktop 
+
+*NVIDIA_DEV.13F8 = "(PE64) NVIDIA Vulkan Quadro M5000M"
+*NVIDIA_DEV.1BB8 = "(PE64) NVIDIA Vulkan Quadro P3000"
+*NVIDIA_DEV.1C22 = "(PE64) NVIDIA Vulkan GeForce GTX 1050"
+*NVIDIA_DEV.1C61 = "(PE64) NVIDIA Vulkan GeForce GTX 1050 Ti"
+*NVIDIA_DEV.1C90 = "(PE64) NVIDIA Vulkan GeForce MX150/MX250"
+*NVIDIA_DEV.1C92 = "(PE64) NVIDIA Vulkan GeForce GTX 1050 with Max-Q Design"
+*NVIDIA_DEV.1CFB = "(PE64) NVIDIA Vulkan Quadro P1000/Matrox D-Series D1450/D1480"
+*NVIDIA_DEV.1F98 = "(PE64) NVIDIA Vulkan GeForce MX450"
+ NVIDIA_DEV.20B8 = "(PE64) NVIDIA Vulkan A100X"
+ NVIDIA_DEV.20B9 = "(PE64) NVIDIA Vulkan A30X"
+ NVIDIA_DEV.20F3 = "(PE64) NVIDIA Vulkan A800-SXM4-80GB"
+ NVIDIA_DEV.20F5 = "(PE64) NVIDIA Vulkan A800 80GB PCIe"
+ NVIDIA_DEV.20F6 = "(PE64) NVIDIA Vulkan A800 40GB PCIe"
+ NVIDIA_DEV.24C9 = "(PE64) NVIDIA Vulkan GeForce RTX 3060 Ti"
+*NVIDIA_DEV.2501 = "(PE64) NVIDIA Vulkan GeForce RTX 3060"
+*NVIDIA_DEV.2504 = "(PE64) NVIDIA Vulkan GeForce RTX 3060 Lite Hash Rate"
+*NVIDIA_DEV.2521 = "(PE64) NVIDIA Vulkan GeForce RTX 3060 Laptop GPU"
+ NVIDIA_DEV.2544 = "(PE64) NVIDIA Vulkan Graphics Device"
+ NVIDIA_DEV.2561 = "(PE64) NVIDIA Vulkan GeForce RTX 3060 Laptop GPU"
+ NVIDIA_DEV.2684 = "(PE64) NVIDIA Vulkan GeForce RTX 4090"
+ NVIDIA_DEV.26B1 = "(PE64) NVIDIA Vulkan L6000 / RTX 6000 Ada Generation"
+ NVIDIA_DEV.26B5 = "(PE64) NVIDIA Vulkan L40"
+ NVIDIA_DEV.26B8 = "(PE64) NVIDIA Vulkan L40G"
+ NVIDIA_DEV.26F5 = "(PE64) NVIDIA Vulkan L40 CNX"
+ NVIDIA_DEV.2704 = "(PE64) NVIDIA Vulkan GeForce RTX 4080"
+ NVIDIA_DEV.2717 = "(PE64) NVIDIA Vulkan GN21-X11"
+ NVIDIA_DEV.2757 = "(PE64) NVIDIA Vulkan GN21-X11"
+ NVIDIA_DEV.2785 = "(PE64) NVIDIA Vulkan AD104"
+ NVIDIA_DEV.27A0 = "(PE64) NVIDIA Vulkan GN21-X9"
+ NVIDIA_DEV.27B8 = "(PE64) NVIDIA Vulkan AD104GL [L4]"
+ NVIDIA_DEV.27E0 = "(PE64) NVIDIA Vulkan GN21-X9"
+ NVIDIA_DEV.2820 = "(PE64) NVIDIA Vulkan GN21-X6"
+ NVIDIA_DEV.2860 = "(PE64) NVIDIA Vulkan GN21-X6"
+ NVIDIA_DEV.28A0 = "(PE64) NVIDIA Vulkan GN21-X4"
+ NVIDIA_DEV.28A1 = "(PE64) NVIDIA Vulkan GN21-X2"
+ NVIDIA_DEV.28E0 = "(PE64) NVIDIA Vulkan GN21-X4"
+ NVIDIA_DEV.28E1 = "(PE64) NVIDIA Vulkan GN21-X2"
+
+  Обновлены Sound_all_x64(2212), добавлена поддержка USB зв.устройства 
+
+ SB1095.DeviceDesc = "Sound Blaster X-Fi Surround 5.1 Pro",  
+
+ Creative SB 1.2.61.0 Windows 7/8/8.1/10 (32\64 bit), DriverVer = 04/03/2013, 1.2.61.0
