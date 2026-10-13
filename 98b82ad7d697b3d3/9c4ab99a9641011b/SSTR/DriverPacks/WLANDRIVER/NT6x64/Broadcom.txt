@@ -1,0 +1,15 @@
+PCI\VEN_14E4&DEV_4355,Broadcom 802.11ac Wireless PCIE Full Dongle Adapter,PCIe_1.558.53.31\bcmwdidhdpcie.inf,10/11/2017 v1.558.53.31
+PCI\VEN_14E4&DEV_4358,Broadcom 802.11n Network Adapter,BCM43XX64\bcmwdi.inf,12/10/2015 v7.35.338.0
+PCI\VEN_14E4&DEV_4359,Broadcom 802.11n Network Adapter,BCM43XX64\bcmwdi.inf,12/10/2015 v7.35.338.0
+PCI\VEN_14E4&DEV_4365,Broadcom 802.11n Network Adapter,BCM43XX64\bcmwdi.inf,12/10/2015 v7.35.338.0
+PCI\VEN_14E4&DEV_43A0,Broadcom 802.11ac Network Adapter,BCM43XX64\bcmwdi.inf,12/10/2015 v7.35.338.0
+PCI\VEN_14E4&DEV_43A3,Broadcom 802.11ac Wireless PCIE Full Dongle Adapter,PCIe_1.558.53.31\bcmwdidhdpcie.inf,10/11/2017 v1.558.53.31
+PCI\VEN_14E4&DEV_43AE,Broadcom 802.11ac Network Adapter,BCM43XX64\bcmwdi.inf,12/10/2015 v7.35.338.0
+PCI\VEN_14E4&DEV_43B1,Broadcom 802.11ac Network Adapter,BCM43XX64\bcmwdi.inf,12/10/2015 v7.35.338.0
+PCI\VEN_14E4&DEV_43BA,Broadcom 802.11ac Wireless PCIE Full Dongle Adapter,PCIe_1.558.53.31\bcmwdidhdpcie.inf,10/11/2017 v1.558.53.31
+PCI\VEN_14E4&DEV_43C3,Broadcom 802.11ac Wireless PCIE Full Dongle Adapter,PCIe_1.558.53.31\bcmwdidhdpcie.inf,10/11/2017 v1.558.53.31
+PCI\VEN_14E4&DEV_43EC&SUBSYS_310019E5,Broadcom 802.11ac Wireless PCIE Full Dongle Adapter,PCIe_1.558.53.31\bcmwdidhdpcie.inf,10/11/2017 v1.558.53.31
+PCI\VEN_14E4&DEV_440D,Broadcom 802.11ac Wireless PCIE Full Dongle Adapter,PCIe_1.558.53.31\bcmwdidhdpcie.inf,10/11/2017 v1.558.53.31
+SD\VID_02D0&PID_4356&FN_1,Broadcom 802.11ac WDI SDIO Adapter,SDIO_1.596.11.0\bcmdhd63.inf,07/05/2016 v1.596.11.0
+SD\VID_02D0&PID_A9A6&FN_1,Broadcom 802.11n Wireless SDIO Adapter,SDIO_1.596.11.0\bcmdhd63.inf,07/05/2016 v1.596.11.0
+SD\VID_02D0&PID_A9BF&FN_1,Broadcom 802.11ac WDI SDIO Adapter,SDIO_1.596.11.0\bcmdhd63.inf,07/05/2016 v1.596.11.0
