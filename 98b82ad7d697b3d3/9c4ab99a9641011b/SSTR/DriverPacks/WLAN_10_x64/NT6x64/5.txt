@@ -1,0 +1,1174 @@
+PCI\VEN_14E4&DEV_4311&SUBSYS_00071028,Dell Wireless 1390 WLAN Mini-Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4311&SUBSYS_00081028,Dell Wireless 1390 WLAN ExpressCard,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4311&SUBSYS_04221468,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4311&SUBSYS_046614E4,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4311&SUBSYS_11021A32,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4311&SUBSYS_1363103C,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4311&SUBSYS_1364103C,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4311&SUBSYS_1365103C,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4311&SUBSYS_1374103C,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4311&SUBSYS_1375103C,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4311&SUBSYS_1376103C,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4311&SUBSYS_1377103C,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4311,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4312&SUBSYS_00071028,Dell Wireless 1490 Dual Band WLAN Mini-Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4312&SUBSYS_00081028,Dell Wireless 1490 Dual Band WLAN ExpressCard,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4312&SUBSYS_135F103C,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4312&SUBSYS_1360103C,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4312&SUBSYS_1361103C,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4312&SUBSYS_1362103C,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4312&SUBSYS_1370103C,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4312&SUBSYS_1371103C,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4312&SUBSYS_1372103C,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4312&SUBSYS_1373103C,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4312,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4313&SUBSYS_046614E4,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4313,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4314,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4315&SUBSYS_000B1028,Dell Wireless 1395 WLAN Mini-Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4315&SUBSYS_000C1028,Dell Wireless 1397 WLAN Mini-Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4315&SUBSYS_04AD14E4,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4315&SUBSYS_04B514E4,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4315&SUBSYS_137C103C,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4315&SUBSYS_137D103C,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4315&SUBSYS_1507103C,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4315&SUBSYS_1508103C,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4315&SUBSYS_365E103C,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4315&SUBSYS_365F103C,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4315,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4316,Broadcom 802.11a Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4318&SUBSYS_00051028,Dell Wireless 1370 WLAN Mini-PCI Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4318&SUBSYS_00061028,Dell Wireless 1370 WLAN PC Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4318&SUBSYS_00421737,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4318&SUBSYS_00481737,Linksys Wireless-G Notebook Adapter WPC54G V3,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4318&SUBSYS_00491737,Linksys Wireless-G Notebook Adapter with SpeedBooster,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4318&SUBSYS_011916EC&REV_02,U.S. Robotics Wireless 802.11g PC Card Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4318&SUBSYS_011A16EC&REV_02,U.S. Robotics Wireless 802.11g PCI Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4318&SUBSYS_03111468,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4318&SUBSYS_03121468,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4318&SUBSYS_046614E4,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4318&SUBSYS_11011A32,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4318&SUBSYS_1355103C,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4318&SUBSYS_1356103C,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4318&SUBSYS_1357103C,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4318,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4319&SUBSYS_00051028,Dell Wireless 1470 Dual Band WLAN Mini-PCI Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4319&SUBSYS_00061028,Dell Wireless 1470 Dual Band WLAN PC Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4319&SUBSYS_046614E4,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4319&SUBSYS_1358103C,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4319&SUBSYS_1359103C,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4319&SUBSYS_135A103C,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4319,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_431A&SUBSYS_046614E4,Broadcom 802.11a Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_431A,Broadcom 802.11a Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4320&REV_03,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4320&SUBSYS_00011028&REV_03,Dell TrueMobile 1300 WLAN Mini-PCI Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4320&SUBSYS_00021028&REV_03,Dell TrueMobile 1300 WLAN PC Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4320&SUBSYS_000218DE&REV_03,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4320&SUBSYS_00031028&REV_03,Dell Wireless 1350 WLAN Mini-PCI Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4320&SUBSYS_00041028&REV_03,Dell Wireless 1350 WLAN PC Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4320&SUBSYS_00151737&REV_03,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4320&SUBSYS_00E70E11&REV_03,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4320&SUBSYS_046614E4&REV_03,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4320&SUBSYS_12F4103C&REV_03,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4320&SUBSYS_12F8103C&REV_03,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4320&SUBSYS_12FA103C&REV_03,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4320&SUBSYS_12FB103C&REV_03,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4320&SUBSYS_43201737&REV_03,Linksys Wireless-G Notebook Adapter with SpeedBooster,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4321&REV_03,Broadcom 802.11a Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4321&SUBSYS_046614E4&REV_03,Broadcom 802.11a Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4324&REV_03,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4324&SUBSYS_00011028&REV_03,Dell TrueMobile 1400 Dual Band WLAN Mini-PCI Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4324&SUBSYS_00021028&REV_03,Dell TrueMobile 1400 Dual Band WLAN PC Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4324&SUBSYS_00031028&REV_03,Dell Wireless 1450 Dual Band WLAN Mini-PCI Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4324&SUBSYS_00041028&REV_03,Dell Wireless 1450 Dual Band WLAN PC Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4324&SUBSYS_03281154&REV_03,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4324&SUBSYS_033C1154&REV_03,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4324&SUBSYS_033F1154&REV_03,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4324&SUBSYS_046614E4&REV_03,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4324&SUBSYS_12F9103C&REV_03,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4324&SUBSYS_12FC103C&REV_03,Broadcom 802.11 Multiband Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4325&REV_03,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4325&SUBSYS_00031414&REV_03,Microsoft Wireless Notebook Adapter MN-720,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4325&SUBSYS_000318DE&REV_03,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4325&SUBSYS_00041414&REV_03,Microsoft Wireless Notebook Adapter MN-730,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4325&SUBSYS_000618DE&REV_03,Broadcom 802.11g Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4328&SUBSYS_00091028,Dell Wireless 1500 Draft 802.11n WLAN Mini-Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4328&SUBSYS_000A1028,Dell Wireless 1505 Draft 802.11n WLAN Mini-Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4328&SUBSYS_00661737,Broadcom 4321AG 802.11a/b/g/draft-n Wi-Fi Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4328&SUBSYS_03191468,Broadcom 4321AG 802.11a/b/g/draft-n Wi-Fi Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4328&SUBSYS_046614E4,Broadcom 4321AG 802.11a/b/g/draft-n Wi-Fi Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4328&SUBSYS_05001A32,Broadcom 4321AG 802.11a/b/g/draft-n Wi-Fi Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4328&SUBSYS_1366103C,Broadcom 4321AG 802.11a/b/g/draft-n Wi-Fi Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4328&SUBSYS_1367103C,Broadcom 4321AG 802.11a/b/g/draft-n Wi-Fi Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4328&SUBSYS_1368103C,Broadcom 4321AG 802.11a/b/g/draft-n Wi-Fi Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4328&SUBSYS_1369103C,Broadcom 4321AG 802.11a/b/g/draft-n Wi-Fi Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4328,Broadcom 802.11n Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4329&SUBSYS_00581737,Linksys Wireless-N Notebook Adapter WPC300N,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4329&SUBSYS_00601737,Broadcom 802.11n Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4329&SUBSYS_012416EC&REV_01,USRobotics Wireless MAXn PCI Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4329&SUBSYS_012516EC&REV_01,USRobotics Wireless MAXn PC Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4329&SUBSYS_046614E4,Broadcom 802.11n Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4329&SUBSYS_1385&subdev_7B00WN511B,RangeMax Next Wireless Notebook Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4329&SUBSYS_1385&subdev_7D00WN311B,RangeMax Next Wireless PCI Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4329&SUBSYS_7B001385,Broadcom 802.11n Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4329&SUBSYS_7D001385,Broadcom 802.11n Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4329&SUBSYS_F03014E4,Broadcom 802.11n Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4329,Broadcom 802.11n Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_432A&SUBSYS_046614E4,Broadcom 802.11n Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_432A,Broadcom 802.11n Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_432b&SUBSYS_000D1028,Dell Wireless 1510 Wireless-N WLAN Mini-Card,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_432B&SUBSYS_137F103C,Broadcom 4322AG 802.11a/b/g/draft-n Wi-Fi Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_432B&SUBSYS_1380103C,Broadcom 4322AG 802.11a/b/g/draft-n Wi-Fi Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_432B&SUBSYS_1509103C,Broadcom 4322AG 802.11a/b/g/draft-n Wi-Fi Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_432B&SUBSYS_1510103C,Broadcom 4322AG 802.11a/b/g/draft-n Wi-Fi Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_432B,Broadcom 802.11n Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_432C,Broadcom 802.11n Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4350,Broadcom 802.11n Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4351,Broadcom 802.11n Network Adapter,netbc63a\netbc63a.INF,03/14/2012 v5.100.245.200
+PCI\VEN_14E4&DEV_4355,Broadcom 802.11ac Wireless PCIE Full Dongle Adapter,bcmwdidhdpcie\bcmwdidhdpcie.inf,04/21/2017 v1.558.53.25
+PCI\VEN_14E4&DEV_43EC,Broadcom 802.11ac Wireless PCIE Full Dongle Adapter,bcmwdidhdpcie\bcmwdidhdpcie.inf,04/21/2017 v1.558.53.25
+PCI\VEN_168C&DEV_0013&SUBSYS_00171737,Linksys Wireless A+G Notebook Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_00251737,Linksys Wireless A+G Notebook Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_00351731,Linksys Wireless A+G Notebook Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_00351737,Linksys Wireless A+G Notebook Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_00361737,Linksys Wireless A+G PCI Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_04061468,LAN-Express AS IEEE 802.11g miniPCI Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_04071468,LAN-Express AS IEEE 802.11a|g miniPCI Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_04081468,11b|g Wireless LAN Mini PCI Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_04171468,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_1012185F,WNC CM9 Wireless LAN mini-PCI Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_1025168C,Qualcomm Atheros Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_1026168C,Qualcomm Atheros Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_1030168C,Qualcomm Atheros AR5002G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_1031168C,Qualcomm Atheros AR5002X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_1041168C,Qualcomm Atheros AR5004G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_1042168C,Qualcomm Atheros AR5004X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_1051168C,Qualcomm Atheros AR5005GS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_1053168C,Qualcomm Atheros AR5005GS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_12031259,Allied Telesyn AT-WCP201g Wireless PCI Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_12041259,Allied Telesyn AT-WCC201g Wireless Card Bus Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_123410CF,Qualcomm Atheros Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_123510CF,Qualcomm Atheros Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_123610CF,IEEE 802.11a|g Wireless LAN Adapter (A),netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_2026168C,Qualcomm Atheros Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_2030168C,Qualcomm Atheros AR5002G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_2031168C,Qualcomm Atheros AR5002X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_2041168C,Qualcomm Atheros AR5004G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_2042168C,Qualcomm Atheros AR5004X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_2051168C,Qualcomm Atheros AR5005GS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_2053168C,Qualcomm Atheros AR5005GS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_30001799,Belkin Wireless A|G Desktop Network Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_307002FA,Gigaset PC Card 108,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_32021186,D-Link AirPlus Xtreme G DWL-G650 Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_32031186,D-Link AirPlus Xtreme G DWL-G520 Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_3A071186,D-Link AirXpert DWL-AG650 Wireless Cardbus Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_3A081186,D-Link AirXpert DWL-AG520 Wireless PCI Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_3A121186,D-Link AirPlus DWL-G650 Wireless Cardbus Adapter(rev.C),netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_3A131186,D-Link AirPlus DWL-G520 Wireless PCI Adapter(rev.B),netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_3A141186,D-Link AirPremier DWL-AG530 Wireless PCI Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_3A171186,D-Link AirPremier DWL-G680 Wireless Cardbus Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_3A181186,D-Link AirPremier DWL-G550 Wireless PCI Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_3A1A1186,D-Link WNA-2330 Notebook Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_3A1B1186,D-Link WDA-2320 Desktop Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_3A1C1186,D-Link WNA-1330 Notebook Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_3A631186,D-Link AirPremier DWL-AG660 Wireless Cardbus Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_3A731186,D-Link Wireless 108G DWA-520 Desktop Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_3A741186,D-Link Wireless 108G DWA-620 Notebook Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_3B081186,D-Link AirPlus G DWL-G630 Wireless Cardbus Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_46101385,Qualcomm Atheros Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_4B001385,NETGEAR 108 Mbps Wireless PC Card WG511T,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_4D001385,NETGEAR 108 Mbps Wireless PCI Adapter WG311T,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_4F001385,NETGEAR Double 108 Mbps Wireless PC Card WG511U,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_5A001385,NETGEAR 108 Mbps Wireless PCI Adapter WG311T,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_5B001385,NETGEAR 108 Mbps Wireless PC Card WG511T,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_5D001385,NETGEAR RangeMax(TM) Wireless PC Card WPN511,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_5E001385,NETGEAR WPN311 RangeMax(TM) Wireless PCI Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_7064144F,Qualcomm Atheros AR5004G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_7065144F,Qualcomm Atheros AR5004X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_7084144F,Qualcomm Atheros AR5005GS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_7088144F,Qualcomm Atheros AR5005GS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_A527167D,Qualcomm Atheros Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_E8011458,Gigabyte GN-WLMA102 Cardbus WLAN Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_E8111458,Gigabyte GN-WMAG Cardbus WLAN Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_E8141458,Gigabyte GN-WM01GT Cardbus WLAN Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_E9011458,Gigabyte GN-WIAH (mini) PCI WLAN Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_E9111458,Gigabyte GN-WIAG|GN-WPEAG (mini) PCI WLAN Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0013&SUBSYS_E9121458,Gigabyte GN-WP01GT (mini) PCI WLAN Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_001817F9,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_00531737,Linksys Wireless-G Notebook Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_04181468,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_04201468,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_04261468,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_1052168C,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_1054168C,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_2052168C,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_2054168C,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_307102FA,Speedport Gigaset 54 Mbit,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_3A151186,D-Link AirPlus G DWL-G630 Wireless Cardbus Adapter(rev.D),netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_3A161186,D-Link AirPlus G DWL-G510 Wireless PCI Adapter(rev.B),netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_3A1C1186,D-Link WNA-1330 Notebook Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_3A1D1186,D-Link WDA-1320 Desktop Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_3A231186,D-Link AirPlus G DWL-G520+A Wireless PCI Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_3A241186,D-Link AirPlus G DWL-G650+A Wireless Cardbus Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_3B081186,D-Link AirPlus G DWL-G630 Wireless Cardbus Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_42111113,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_44131113,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_700c1799,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_700D1799,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_701D1799,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_7094144F,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_7101144F,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_7114144F,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001A&SUBSYS_7115144F,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_00431737,Linksys Wireless A+G Notebook Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_00441737,Linksys Dual-Band Wireless A+G PCI Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_1061168C,Qualcomm Atheros AR5006GS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_1062168C,Qualcomm Atheros AR5006XS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_1063168C,Qualcomm Atheros AR5006X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_1065168C,Qualcomm Atheros AR5006G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_111219B6,Qualcomm Atheros AR5006X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_132910CF,Qualcomm Atheros AR5006X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_134F10CF,IEEE 802.11a|g Wireless LAN Adapter (A),netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_1602196f,Qualcomm Atheros AR5006XS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_1603196f,Qualcomm Atheros AR5006XS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_2061168C,Qualcomm Atheros AR5006GS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_2062168C,Qualcomm Atheros AR5006XS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_2063168C,Qualcomm Atheros AR5006X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_2065168C,Qualcomm Atheros AR5006G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_30001799,Belkin Wireless A|G Desktop Network Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_3A191186,D-Link AirPremier AG DWL-AG660 Wireless Cardbus Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_3A221186,D-Link AirPremier AG DWL-AG530 Wireless PCI Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_500011AD,HP 802.11a|b|g Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_500111AD,HP 802.11b|g Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_530111AD,Qualcomm Atheros AR5006GS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_540111AD,Qualcomm Atheros AR5006XS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_7092144F,Qualcomm Atheros AR5006X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001B&SUBSYS_E9011458,Gigabyte GN-WI01HT (mini) PCI WLAN Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_0034168c,11b|g Wireless LAN Mini PCI Express Adapter II,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_0035168c,11b|g Wireless LAN Mini PCI Express Adapter III,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_0086106B,Qualcomm Atheros AR5006EXS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_01001A32,Qualcomm Atheros AR5006EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_01051A32,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_01081A32,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_01121A32,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_01121A32,Qualcomm Atheros Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_02001A32,Qualcomm Atheros AR5006EX Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_0202168C,Qualcomm Atheros AR5007 802.11b|g WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_02B01028,Qualcomm Atheros AR5007 802.11b|g WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_02B11028,Qualcomm Atheros AR5007 802.11b|g WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_02D61028,Qualcomm Atheros AR5007 802.11b|g WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_04221468,Qualcomm Atheros AR5006EXS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_04231468,LAN-Express AS IEEE 802.11g PCI-E Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_0423168C,LAN-Express AS IEEE 802.11g PCI-E Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_04251468,Qualcomm Atheros AR5006X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_04271468,Qualcomm Atheros AR5005G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_04281468,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_042A1468,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_102010E9,Qualcomm Atheros AR5006EXS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_102510E9,Qualcomm Atheros AR5006EXS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_10261A3B,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_1033147B,Qualcomm Atheros AR5006EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_10331A3B,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_10341A3B,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_10601A3B,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_137A103C,Qualcomm Atheros AR5007 802.11b|g WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_137B103C,Qualcomm Atheros AR5007 802.11b|g WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_1385103C,Qualcomm Atheros AR5006 802.11a|b|g WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_1386103C,Qualcomm Atheros AR5006 802.11a|b|g WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_139C10CF,Qualcomm Atheros AR5006EXS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_142E10CF,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_1604196f,Qualcomm Atheros AR5006EXS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_2014168C,Qualcomm Atheros AR5006EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_21081A32,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_2A97103C,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_303F103C,Qualcomm Atheros AR5007 802.11b|g WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_3040103C,Qualcomm Atheros AR5007 802.11b|g WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_3061168C,Qualcomm Atheros AR5006EGS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_3062168C,Qualcomm Atheros AR5006EXS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_3063168C,Qualcomm Atheros AR5006EX Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_3064168C,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_3065168C,Qualcomm Atheros AR5006EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_3067168C,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_316417AA,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_41051A32,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_630311AD,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_631311AD,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_632311AD,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_633311AD,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_635311AD,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_660311AD,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_7096144F,Qualcomm Atheros AR5006EX Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_7106144F,Qualcomm Atheros AR5006EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_7108144F,Qualcomm Atheros AR5006X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_7111144F,Qualcomm Atheros AR5006EGS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_7112144f,Qualcomm Atheros AR5006EXS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_7116144F,Qualcomm Atheros AR5006X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_7128144f,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_7130144F,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_7131144F,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_75191113,Qualcomm Atheros AR5006EXS Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_A6011113,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_C6011113,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_E000105B,LAN-Express AS IEEE 802.11g PCI-E Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_E002105B,LAN-Express AS IEEE 802.11g PCI-E Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_E008105B,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_E00B105B,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_E00C105B,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_E00D105B,Qualcomm Atheros AR5007EG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_E00E105B,Qualcomm Atheros AR5006X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_E9131458,Gigabyte GN-WI01GT (mini) PCI-E WLAN Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_E9171458,Gigabyte GN-WI07HT (mini) PCI-E WLAN Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001C&SUBSYS_E9181458,Gigabyte GN-WS50G (mini) PCI-E WLAN Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001D&SUBSYS_1055168C,Qualcomm Atheros AR5007G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001D&SUBSYS_2055168C,Qualcomm Atheros AR5007G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001D&SUBSYS_720B1799,Qualcomm Atheros AR5007G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_001D&SUBSYS_B2031113,Qualcomm Atheros AR5007G Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0020&SUBSYS_00000000,Qualcomm Atheros AR5008 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0020&SUBSYS_16001976,Qualcomm Atheros AR5008 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0020&SUBSYS_340E187E,Qualcomm Atheros AR5008 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0020&SUBSYS_3A681186,Qualcomm Atheros AR5008 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_00721737,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_1071168C,Qualcomm Atheros AR5008 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_1072168C,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_1079168C,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_147E10CF,Qualcomm Atheros AR5008 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_200B1976,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_2071168C,Qualcomm Atheros AR5008 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_2072168C,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_2079168C,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_3071168C,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_3079168C,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_386D1186,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_3A0907D1,D-Link DWA-645 RangeBooster N650 Notebook Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_3A691186,D-Link DWA-542 RangeBooster N Desktop Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_3A6A1186,D-Link DWA-642 RangeBooster N Notebook Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_3A6B1186,D-Link DWA-547 RangeBooster N650 Desktop Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_3A6D1186,D-Link DWA-552 XtremeN Desktop Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_3A6E1186,D-Link DWA-652 XtremeN Notebook Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_3A761186,D-Link DWA-645 RangeBooster N650 Notebook Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_80011799,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_800118CB,Gigaset PC Card 300,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_80111799,Belkin N1 Wireless Notebook Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0023&SUBSYS_E9141458,Gigabyte GN-WI03N (mini) PCI WLAN Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_00000000,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_0032168c,11b|g|n Wireless LAN Mini-PCI Express Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_0033168c,11a|b|g|n Wireless LAN Mini-PCI Express Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_0087106B,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_035E1154,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_03841014,11a|b|g|n Wireless LAN Mini-PCI Express Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_04291468,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_04301468,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_05021A32,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_102210E9,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_10241A3B,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_102610E9,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_13C010CF,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_2072144F,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_2A5F103C,Foxconn 802.11 a|b|g|n Wireless System Adaptor,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_3072168C,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_3A6F1186,D-Link DWA-643 Xtreme N ExpressCard Notebook Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_3A701186,D-Link DWA-556 Xtreme N PCIe Desktop Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_7122144F,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_7125144F,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_7132144F,Qualcomm Atheros AR5008X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_90001385,NETGEAR WN711 RangeMax Wireless-N Expresscard Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_E8151458,Gigabyte GN-WM02N Express WLAN Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_E9151458,Gigabyte GN-WP02N PCI Express WLAN Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0024&SUBSYS_E9161458,Gigabyte GN-WI06N (mini) PCI Express WLAN Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0027&SUBSYS_2082168C,Qualcomm Atheros AR922X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0029&SUBSYS_0091168C,Qualcomm Atheros AR922X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0029&SUBSYS_2091168C,Qualcomm Atheros AR922X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0029&SUBSYS_2092168C,Qualcomm Atheros AR922X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0029&SUBSYS_2093168C,Qualcomm Atheros AR922X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0029&SUBSYS_2094168C,Qualcomm Atheros AR922X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0029&SUBSYS_2096168C,Qualcomm Atheros AR922X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0029&SUBSYS_2098168C,Qualcomm Atheros AR922X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0029&SUBSYS_3A3A1186,Qualcomm Atheros AR922X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0029&SUBSYS_3A781186,D-Link DWA-547 RangeBooster N650 Desktop Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0029&SUBSYS_3A791186,D-Link DWA-645 RangeBooster N650 Notebook Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0029&SUBSYS_3A7A1186,D-Link DWA-552 XtremeN Desktop Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0029&SUBSYS_3A7B1186,D-Link DWA-652 XtremeN Notebook Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0029&SUBSYS_3A7C1186,Qualcomm Atheros AR922X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0029&SUBSYS_3A7D1186,Qualcomm Atheros AR922X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0029&SUBSYS_4201168C,Qualcomm Atheros AR922X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0029&SUBSYS_92231ACE,TP-LINK Wireless N Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0029&SUBSYS_D05B10FC,I-O DATA WHG-AGDN|CB Wireless LAN Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_00341B0A,Qualcomm Atheros AR9281 802.11b|g|n WLAN HMC Network,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_0036168c,11b|g|n Wireless LAN Mini-PCI Express Adapter II,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_008F106B,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_0200168C,Dell Wireless 1515 Wireless-N Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_0201168C,Dell Wireless 1515 Wireless-N Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_0202168C,Dell Wireless 1515 Wireless-N Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_0203168C,DW1525 (802.11n) WLAN PCIe Card,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_03011A32,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_03031A32,Qualcomm Atheros AR5B91 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_03061A32,Qualcomm Atheros AR5B93 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_05041A32,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_05071A32,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_1000168C,Qualcomm Atheros 802.11 a|b|g|n Dualband Wireless Network Module,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_1001168C,Qualcomm Atheros 802.11 a|b|g|n Dualband Wireless Network Module,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_10671A3B,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_10711A3B,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_10811A3B,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_10901A3B,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_1130168C,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_1381103C,Qualcomm Atheros AR5009 802.11a|g|n WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_1382103C,Qualcomm Atheros AR5009 802.11a|g|n WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_147C10CF,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_147D10CF,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_153610CF,Qualcomm Atheros AR9283 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_1A671A3B,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_1C711A3B,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_20001071,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_3041103C,Qualcomm Atheros AR5009 802.11a|g|n WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_3042103C,Qualcomm Atheros AR5009 802.11a|g|n WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_3091168C,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_3092168C,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_3093168C,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_3094168C,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_3095168C,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_3096168C,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_3097168C,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_3098168C,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_3099168C,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_309917AA,11a|b|g|n Wireless LAN Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_309A168C,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_309B168C,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_309C168C,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_309D168C,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_309D17AA,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_309D185F,Qualcomm Atheros AR5B93 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_309F168C,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_30A3168C,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_43011A32,Qualcomm Atheros AR9281 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_43031A32,Qualcomm Atheros AR9281 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_43061A32,Qualcomm Atheros AR9283 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_45071A32,Qualcomm Atheros AR9280 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_4E050777,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_650211AD,Qualcomm Atheros AR9280 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_65071A32,Qualcomm Atheros AR9280 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_651211AD,Qualcomm Atheros AR9280 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_652211AD,Qualcomm Atheros AR9280 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_653211AD,Qualcomm Atheros AR9280 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_654211AD,Qualcomm Atheros AR9280 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_655211AD,Qualcomm Atheros AR5B92 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_660011AD,Qualcomm Atheros AR5B91 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_661011AD,Qualcomm Atheros AR9281 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_661211AD,Qualcomm Atheros AR9283 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_662011AD,Qualcomm Atheros AR9281 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_662211AD,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_663211AD,Qualcomm Atheros AR5B93 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_664211AD,Qualcomm Atheros AR5B93 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_7136144F,Qualcomm Atheros AR9280 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_7137144F,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_7138144F,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_7139144F,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_7140144F,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_7141144F,Qualcomm Atheros AR9281 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_7154144F,Qualcomm Atheros AR9280 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_7156144F,Qualcomm Atheros AR9280 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_7157144F,Qualcomm Atheros AR9280 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_7158144F,Qualcomm Atheros AR9281 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_7161144F,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_7163144F,Qualcomm Atheros AR9283 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_7168144F,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_A8221113,Qualcomm Atheros AR9280 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_B8221113,Qualcomm Atheros AR9280 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_C8221113,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_C8231113,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_D6221113,Qualcomm Atheros AR9280 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_D8221113,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_E004105B,Qualcomm Atheros AR9280 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_E006105B,Qualcomm Atheros AR5B91 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_E007105B,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_E009105B,Qualcomm Atheros AR9281 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_E00F105B,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_E010105B,Qualcomm Atheros AR928X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_E012105B,Qualcomm Atheros AR9281 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_E013105B,Qualcomm Atheros AR9280 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_E015105B,Qualcomm Atheros AR9280 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_E019105B,Qualcomm Atheros AR9283 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_E01F105B,Qualcomm Atheros AR5B93 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_E6221113,Qualcomm Atheros AR9281 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_E9191458,Gigabyte GN-WS53HN Wireless LAN Mini PCI Express Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002A&SUBSYS_F8221113,Qualcomm Atheros AR9283 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_00231931,Option GTM67x PCIe WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_0037168c,11b|g|n Wireless LAN Mini-PCI Express Adapter III,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_02041028,Dell Wireless 1502 802.11b|g|n,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_0204168C,Qualcomm Atheros AR9285 802.11b|g|n WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_02051028,Dell Wireless 1702 802.11b|g|n,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_0205168C,Qualcomm Atheros AR9285 802.11b|g|n WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_03051A32,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_04001B9A,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_04011B9A,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_04021B9A,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_04031B9A,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_04101B9A,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_04111B9A,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_04641028,Qualcomm Atheros AR9285 802.11b|g|n WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_0C001B9A,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_0C011B9A,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_0C021B9A,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_0C031B9A,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_0C041B9A,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_0C051B9A,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_0C101B9A,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_0C111B9A,Qualcomm Atheros AR9002WB Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_10001B14,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_10891A3B,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_11061A3B,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_1461103C,Qualcomm Atheros AR9285 802.11b|g|n WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_153710CF,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_161910CF,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_1A891A3B,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_1D891A3B,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_20361A3B,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter #1,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_23001A32,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter #1,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_23051A32,Qualcomm Atheros AR5B95 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_2A371A3B,Qualcomm Atheros AR9002WB Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_2C371A3B,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_303F103C,Qualcomm Atheros AR9285 802.11b|g|n WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_3040103C,Qualcomm Atheros AR9285 802.11b|g|n WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_30A1168C,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_30A117AA,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_30A1185F,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_30A11895,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_30A2168C,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_30AB168C,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter #1,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_30AB185F,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_30AB1895,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_30AD168C,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter #2,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_30AE168C,Qualcomm Atheros AR5008WB-EG Wireless Network Adapter #1,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_30AE185F,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter #1,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_30AF168C,Qualcomm Atheros AR5008WB-EG Wireless Network Adapter #2,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_30AF185F,Qualcomm Atheros AR9285 802.11b|g|n WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_30B2185F,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_31A117AA,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_3B001106,VIA 802.11b|g|n PCIe Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_4101144D,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_4102144D,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_4103144D,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_4104144D,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_4114144D,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_43051A32,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_63051A32,Qualcomm Atheros AR5B95 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_660111AD,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_660311AD,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter #1,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_661111AD,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_661311AD,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_662111AD,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_662311AD,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_663111AD,Qualcomm Atheros AR5B95 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_664111AD,Qualcomm Atheros AR5B95 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_665111AD,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_666111AD,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_7159144F,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_7164144F,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_7167144F,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_7173144F,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_7178144F,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_7182144F,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_7183144F,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_7187144F,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_7194144F,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_83051A32,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_98111113,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_A0111113,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_A3051A32,Qualcomm Atheros AR9285 802.11b|g|n WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_A5003485,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_A5013485,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_A5023485,Qualcomm Atheros AR5B95 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_A8311113,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_A8411113,Qualcomm Atheros AR9002WB Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_A8421113,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_BA91167D,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter #1,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_D8111113,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E014105B,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E016105B,Qualcomm Atheros AR5B95 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E017105B,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E01A105B,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E022105B,Qualcomm Atheros AR5B95 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E023105B,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E025105B,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E031105B,Qualcomm Atheros AR5B195 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E032105B,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter #1,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E033105B,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter #1,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E035105B,Qualcomm Atheros AR5B95 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E036105B,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E037105B,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E03E105B,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E03E105B,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E048105B,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E049105B,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E070105B,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E6111113,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_E8111113,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_EE321113,Qualcomm Atheros AR9002WB-1NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002B&SUBSYS_F6111113,Qualcomm Atheros AR9285 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002C&SUBSYS_1029105B,Qualcomm Atheros AR2427 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002C&SUBSYS_11121A3B,Qualcomm Atheros AR2427 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002C&SUBSYS_1A121A3B,Qualcomm Atheros AR2427 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002C&SUBSYS_30A7168C,Qualcomm Atheros AR2427 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002C&SUBSYS_E029105B,Qualcomm Atheros AR2427 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002D&SUBSYS_0300168C,TP-LINK 300Mbps Wireless N Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002D&SUBSYS_0301168C,TP-LINK 150Mbps Wireless N Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002D&SUBSYS_2099168C,Qualcomm Atheros AR9227 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_03091A32,Qualcomm Atheros AR9287 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_08001B9A,Qualcomm Atheros AR9287 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_08011B9A,Qualcomm Atheros AR9287 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_08021B9A,Qualcomm Atheros AR9287 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_11211A3B,Qualcomm Atheros AR9287 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_1462103C,Qualcomm Atheros AR9287 802.11b|g|n WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_158F10CF,Qualcomm Atheros AR9287 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_1626103C,Qualcomm Atheros AR9287 802.11b|g|n WiFi Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_1A211A3B,Qualcomm Atheros AR9287 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_23091A32,Qualcomm Atheros AR5B97 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_30A4168C,Qualcomm Atheros AR9287 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_30A417AA,Qualcomm Atheros AR9287 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_30B0168C,Qualcomm Atheros AR9002WB-2NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_30B3185F,Qualcomm Atheros AR9287 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_30B4185F,Qualcomm Atheros AR5B97 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_31A417AA,Qualcomm Atheros AR9287 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_43091A32,Qualcomm Atheros AR9287 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_660311AD,Qualcomm Atheros AR5B97 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_660711AD,Qualcomm Atheros AR9287 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_661311AD,Qualcomm Atheros AR9287 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_7189144F,Qualcomm Atheros AR9002WB-2NG Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_E030105B,Qualcomm Atheros AR9287 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_002E&SUBSYS_E034105B,Qualcomm Atheros AR5B97 Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_0030&SUBSYS_009A106B,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_05081A32,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_11731A3B,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_1627103C,Qualcomm Atheros AR9380 802.11a|g|n WiFi Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_1628103C,Qualcomm Atheros AR9382 802.11a|g|n WiFi Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_16A810CF,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_18001B9A,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_18011B9A,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_18021B9A,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_20001A56,Killer Wireless-N 1102 Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_20011A56,Killer Wireless-N 1103 Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_3112168C,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_3113168C,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_3114168C,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_3116168C,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_3A7E1186,D-Link DWA-566 Wireless N 300 Dual Band PCIe Desktop Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_3ABE1948,TRENDnet N600 Wireless Dual Band PCIe Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_4107144D,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_4108144D,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_4109144D,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_410A144D,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_410B144D,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_410C144D,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_650311AD,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_651311AD,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_652311AD,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_7188144F,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030&SUBSYS_E04A105B,Qualcomm Atheros AR5B116 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0030,Qualcomm Atheros Osprey Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_02081028,Dell Wireless 1506 802.11b|g|n (2.4GHz),athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_02091028,Dell Wireless 1703 802.11b|g|n (2.4GHz),athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_11861A3B,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_118C1A3B,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_11951A3B,Qualcomm Atheros AR1111 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_12371A3B,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_126A1A3B,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_1785103C,Qualcomm Atheros AR9485 802.11b|g|n WiFi Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_179F103C,Qualcomm Atheros AR9485 802.11b|g|n WiFi Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_1838103C,Qualcomm Atheros AR9485 802.11b|g|n WiFi Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_191A103C,Qualcomm Atheros AR9485 802.11b|g|n WiFi Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_1C001B9A,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_1C011B9A,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_1F861A3B,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_1F951A3B,Qualcomm Atheros AR1111 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_20001B9A,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_20011B9A,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_20861A3B,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_20971A3B,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_209C1A3B,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_21001A3B,Qualcomm Atheros AR1111 WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_21261A3B,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_21521A3B,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_21871A3B,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_2A871A3B,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_2B32103C,Qualcomm Atheros AR9485 802.11b|g|n WiFi Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_2B33103C,Qualcomm Atheros AR9485 802.11b|g|n WiFi Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_2B871A3B,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_2C971A3B,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_2F871A3B,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_3118168C,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_311817AA,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_3119168C,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_3119185F,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_3122168C,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_312F168C,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_321817AA,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_321917AA,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_40011C56,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_4105144D,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_4106144D,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_410D144D,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_410E144D,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_410F144D,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_4115144D,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_4116144D,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_4117144D,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_43181A32,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_660711AD,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_660811AD,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_661711AD,Qualcomm Atheros AR5B125 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_661811AD,Qualcomm Atheros AR5BWB225 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_662711AD,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_662811AD,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_663711AD,Qualcomm Atheros AR5B125 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_664711AD,Qualcomm Atheros AR9485 802.11b|g|n WiFi Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_665711AD,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_7192144F,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_7193144F,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_7197144F,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_850D1043,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_860111AD,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_861111AD,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_862111AD,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_863111AD,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_A118185F,Qualcomm Atheros AR5B125 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_B8411113,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_B8421113,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_C680144D,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_C706144D,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_C708144D,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_E044105B,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_E047105B,Qualcomm Atheros AR5B125 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_E04D105B,Qualcomm Atheros AR5BWB225 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_E04E105B,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_E04F105B,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_E051105B,Qualcomm Atheros AR5BMD225 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_E062105B,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_E063105B,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_E075105B,Qualcomm Atheros AR9485WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_E080105B,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0032&SUBSYS_F8421113,Qualcomm Atheros AR9485 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0033,Qualcomm Atheros AR9580 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_006314CD,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_006414CD,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_008114CD,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_008814CD,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_00911969,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_020A1028,Dell Wireless 1901 802.11a|b|g|n (2.4GHz and 5GHz),athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_020B1028,Dell Wireless 1601 802.11 a|g|n Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_020D1028,Dell Wireless 1601 802.11 a|g|n Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_03001028,Dell Wireless 1802 802.11a|b|g|n Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_080211AD,Qualcomm Atheros AR5BWB222 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_081211AD,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_082211AD,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_086211AD,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_097517ED,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_178310CF,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_180E10CF,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_1864103C,Qualcomm Atheros AR9462 802.11a|b|g|n WiFi Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_18CD10CF,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_20031A56,Killer Wireless-N 1202 Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_21101A3B,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_21161A3B,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_211C1A3B,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_211E1A3B,Qualcomm Atheros AR5BWB222 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_211F1A3B,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_21851A3B,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_22081A3B,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_22341A3B,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_2C001B9A,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_2C031B9A,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_2C041B9A,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_2F851A3B,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_311417AA,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_3117104D,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_3117168C,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_321417AA,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_4110144D,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_4111144D,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_4112144D,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_4113144D,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_411F144D,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_4120144D,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_661111AD,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_662111AD,Qualcomm Atheros AR5BWB222 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_663111AD,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_664111AD,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_665111AD,Qualcomm Atheros AR5BMD222 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_666111AD,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_667111AD,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_7055144F,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_802A11AD,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_812A11AD,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_850E1043,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_C0E6144D,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_C0E8144D,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_C0F9144D,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_E052105B,Qualcomm Atheros AR5BWB222 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_E058105B,Qualcomm Atheros AR5BMD222 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_E059105B,Qualcomm Atheros AR5BMD222 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_E064105B,Qualcomm Atheros AR946x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_E07D105B,Qualcomm Atheros AR5BWB222 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_E085105B,Qualcomm Atheros AR5BWB222 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_E086105B,Qualcomm Atheros AR5BNFA222 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_E087105B,Qualcomm Atheros AR5BMD222 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0034&SUBSYS_E08C105B,Qualcomm Atheros AR5BNFA222 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_020C1028,Dell Wireless 1705 802.11b|g|n (2.4GHZ),athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_020E1028,Dell Wireless 1707 802.11b|g|n (2.4GHZ),athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_061211AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_062211AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_063211AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_064211AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_065211AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_066211AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_067211AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_068211AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_069211AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_06A211AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_06B211AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_080311AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_081311AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_082311AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_083211AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_084211AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_182311AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_183211AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_184211AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_18E3103C,Qualcomm Atheros QCA9565 802.11b|g|n WiFi Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_2005103C,Qualcomm Atheros QCA9565 802.11b|g|n WiFi Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_21301A3B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_213A1A3B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_213B1A3B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_213C1A3B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_21761A3B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_217F103C,Qualcomm Atheros QCA9565 802.11b|g|n WiFi Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_21821A3B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_218A1A3B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_218A1A3B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_218B1A3B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_218C1A3B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_218D1A3B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_28101B9A,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_28111B9A,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_28121B9A,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_28131B9A,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_28A11B9A,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_28A21B9A,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_28A31B9A,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_28A41B9A,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_2F821A3B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_2F8A1A3B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_3025168C,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_3026168C,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_302617AA,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_3027168C,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_3027185F,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_3028168C,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_3028185F,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_302B168C,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_302C168C,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_402617AA,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_411A144D,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_411B144D,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_411C144D,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_411D144D,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_411E144D,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_4129144D,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_412A144D,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_667111AD,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_7202144F,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_85F21043,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_A119185F,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_A120185F,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_E068105B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_E069105B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_E07F105B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_E081105B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_E08F105B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_E091105B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0036&SUBSYS_E099105B,Qualcomm Atheros AR956x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0037&SUBSYS_11951A3B,Qualcomm Atheros AR1111 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0037&SUBSYS_1F951A3B,Qualcomm Atheros AR1111 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0037&SUBSYS_21001A3B,Qualcomm Atheros AR1111 WB-EG Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0037&SUBSYS_3118168C,Qualcomm Atheros AR1111 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0037&SUBSYS_661711AD,Qualcomm Atheros AR5B125 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0037&SUBSYS_661811AD,Qualcomm Atheros AR5BWB225 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_0037&SUBSYS_663711AD,Qualcomm Atheros AR5B125 Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_003E&SUBSYS_00000000,Qualcomm Atheros QCA61x4 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_02581DAC,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_02591DAC,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_02611DAC&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_03101028&REV_32,Qualcomm QCA61x4A 802.11ac Wireless Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_04101028&REV_32,Qualcomm QCA61x4A 802.11ac Wireless Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_050311AD&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_051311AD&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_052311AD&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_080711AD&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_080811AD&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_081711AD&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_081811AD&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_082717AA&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_083711AD&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_083717AA&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_084717AA&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_085717AA&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_143517AA&REV_32,Killer Wireless-n/a/ac 1435 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_14351A56&REV_32,Killer Wireless-n/a/ac 1435 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_143A1A56&REV_32,Killer Wireless-n/a/ac 1435 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_153517AA&REV_32,Killer Wireless-n/a/ac 1535 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_15351A56&REV_32,Killer Wireless-n/a/ac 1535 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_15361A56&REV_32,Killer Wireless-n/a/ac 1535 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_180711AD&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_192A10CF&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_192B10CF&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_22601A3B&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_302417AA&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_334E168C&REV_30,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_334E168C&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_3360168C&REV_30,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_3360168C&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_3361168C&REV_30,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_3361168C&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_3362168C&REV_30,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_3362168C&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_3363168C&REV_30,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_3363168C&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_3366168C&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_3370168C&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_3371168C&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_364A1028&REV_32,Qualcomm(R) QCA6174A Extended Range 802.11ac MU-MIMO Wireless Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_412F144D&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_4130144D&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_4131144D&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_4132144D&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_525A1A56&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_535A1A56&REV_32,Killer Wireless-n/a/ac 1535 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_535B1A56&REV_32,Qualcomm QCA6174A HMC Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_7143144F&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_7144144F&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_86CD1043&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_86E01043&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_86F81043&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_86F91043&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_87511043&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_87521043&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_900814CD&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_980114CD&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_980214CD&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_C135144D&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_C14F144D&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_C150144D&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_E09D105B&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_E0A0105B&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_E0A2105B&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_E0A5105B&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_003E&SUBSYS_E0A6105B&REV_32,Qualcomm Atheros QCA61x4A Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_00000000,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_050711AD&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_050811AD&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_051811AD&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_080611AD&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_080611AD&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_081611AD&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_082611AD&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_083611AD&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_08A611AD&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_09011235&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_090117AA&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_09031235&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_091117AA&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_092117AA&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_093117AA&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_151811AD&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_180611AD&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_180611AD&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_18101028&REV_31,Qualcomm QCA9377 802.11ac Wireless Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_183611AD&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_22311A3B&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_22311A3B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_223A1A3B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_223B1A3B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_223C1A3B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_22511A3B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_25101A3B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_25111A3B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_25121A3B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_25131A3B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_25141A3B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_25151A3B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_2A511A3B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_2B311A3B&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_2B311A3B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_2B511A3B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_2C311A3B&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_2C311A3B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_2C511A3B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_2D311A3B&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_2F311A3B&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_2F311A3B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_334F168C&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_334F168C&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_3365168C&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_3365168C&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_3368168C&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_3369168C&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_402517AA&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_403517AA&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_403517AA&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_412B144D&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_412B144D&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_412C144D&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_412C144D&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_412D144D&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_412D144D&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_412E144D&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_412E144D&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_4133144D&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_4133144D&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_413517AA&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_413517AA&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_423517AA&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_423517AA&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_433517AA&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_433517AA&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_7142144F&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_7145144F&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_7145144F&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_7148144F&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_E09A105B&REV_30,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_E09A105B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_0042&SUBSYS_E0A1105B&REV_31,Qualcomm Atheros QCA9377 Wireless Network Adapter,netathr10x\netathr10x.INF,08/22/2018 v12.0.0.722
+PCI\VEN_168C&DEV_1014&SUBSYS_057E1014,11a|b|g Wireless LAN Mini PCI Adapter II,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_1014&SUBSYS_05891014,11b|g Wireless LAN Mini PCI Express Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_1014&SUBSYS_058A1014,11a|b|g Wireless LAN Mini PCI Express Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_168C&DEV_ABCD&SUBSYS_00000000,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_ABCD,Qualcomm Atheros AR938x Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_FE30,Qualcomm Atheros Osprey Simulation Wireless Network Adapter,athw8x\athw8x.INF,03/26/2016 v3.0.2.201
+PCI\VEN_168C&DEV_FF19,Qualcomm Atheros AR5006X Wireless Network Adapter,netathrx\netathrx.INF,01/29/2016 v3.0.2.202
+PCI\VEN_8086&DEV_4232&SUBSYS_12018086,Intel(R) WiFi Link 5100 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4232&SUBSYS_12048086,Intel(R) WiFi Link 5100 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4232&SUBSYS_12058086,Intel(R) WiFi Link 5100 BG,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4232&SUBSYS_12068086,Intel(R) WiFi Link 5100 ABG,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4232&SUBSYS_12218086,Intel(R) WiFi Link 5100 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4232&SUBSYS_12248086,Intel(R) WiFi Link 5100 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4232&SUBSYS_12258086,Intel(R) WiFi Link 5100 BG,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4232&SUBSYS_12268086,Intel(R) WiFi Link 5100 ABG,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4232&SUBSYS_13018086,Intel(R) WiFi Link 5100 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4232&SUBSYS_13048086,Intel(R) WiFi Link 5100 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4232&SUBSYS_13058086,Intel(R) WiFi Link 5100 BG,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4232&SUBSYS_13068086,Intel(R) WiFi Link 5100 ABG,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4232&SUBSYS_13218086,Intel(R) WiFi Link 5100 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4232&SUBSYS_13248086,Intel(R) WiFi Link 5100 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4232&SUBSYS_13258086,Intel(R) WiFi Link 5100 BG,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4232&SUBSYS_13268086,Intel(R) WiFi Link 5100 ABG,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4235&SUBSYS_10018086,Intel(R) WiFi Link 5300 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4235&SUBSYS_10048086,Intel(R) WiFi Link 5300 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4235&SUBSYS_10218086,Intel(R) WiFi Link 5300 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4235&SUBSYS_10248086,Intel(R) WiFi Link 5300 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4235&SUBSYS_11018086,Intel(R) WiFi Link 5300 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4235&SUBSYS_11048086,Intel(R) WiFi Link 5300 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4235&SUBSYS_11218086,Intel(R) WiFi Link 5300 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4235&SUBSYS_11248086,Intel(R) WiFi Link 5300 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4236&SUBSYS_10118086,Intel(R) WiFi Link 5300 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4236&SUBSYS_10148086,Intel(R) WiFi Link 5300 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4236&SUBSYS_11118086,Intel(R) WiFi Link 5300 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4236&SUBSYS_11148086,Intel(R) WiFi Link 5300 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4237&SUBSYS_12118086,Intel(R) WiFi Link 5100 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4237&SUBSYS_12148086,Intel(R) WiFi Link 5100 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4237&SUBSYS_12158086,Intel(R) WiFi Link 5100 BG,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4237&SUBSYS_12168086,Intel(R) WiFi Link 5100 ABG,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4237&SUBSYS_13118086,Intel(R) WiFi Link 5100 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4237&SUBSYS_13148086,Intel(R) WiFi Link 5100 AGN,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4237&SUBSYS_13158086,Intel(R) WiFi Link 5100 BG,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+PCI\VEN_8086&DEV_4237&SUBSYS_13168086,Intel(R) WiFi Link 5100 ABG,netwns64\netwns64.inf,10/07/2011 v14.2.1.4
+USB\VID_0009&PID_21E7,Sagemcom,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_04F2&PID_AFF2,Realtek RTL8191SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_04F2&PID_AFF5,Realtek RTL8191SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_04F2&PID_AFF6,Realtek RTL8191SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_050D&PID_815F,Belkin N Wireless USB Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_050D&PID_845A,Belkin USB Wireless Adaptor,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_050D&PID_945A,Belkin USB Wireless Adaptor,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_06F8&PID_E031,Hercules Wireless N Mini USB Key,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_06F8&PID_E032,Wireless G USB Mini,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_06F8&PID_E034,Wireless N LB USB,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0789&PID_0167,Logitec LAN-W150N/U2 Wireless LAN Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_07AA&PID_0047,CG-WLUSBNM,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_07AA&PID_0051,CG-WLUSB300NM,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_07B8&PID_8188,802.11n/b/g 2cm Wireless LAN USB2.0 Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_07D1&PID_3300,D-Link DWA-130 Wireless N USB Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_07D1&PID_3302,D-Link DWA-130 Wireless N USB Adapter(rev.C2),net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_07D1&PID_3303,D-Link DWA-131 Wireless N Nano USB Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_07D1&PID_3306,D-Link DWL-G122 Wireless G USB Adapter (rev.F1),net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0B05&PID_1786,ASUS EZ N 802.11b/g/n Wireless USB Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0B05&PID_1791,ASUS WL-167G V3,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0BDA&PID_8171&REV_0200&SS,Realtek RTL8188SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0BDA&PID_8171&SS,Realtek RTL8188SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0BDA&PID_8171,Realtek RTL8188SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0BDA&PID_8172&REV_0200&SS,Realtek RTL8191SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0BDA&PID_8172&SS,Realtek RTL8191SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0BDA&PID_8172,Realtek RTL8191SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0BDA&PID_8173,Realtek RTL8192GU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0BDA&PID_8174,Realtek RTL8192SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0BDA&PID_8175,Realtek RTL8191SU Wireless LAN 802.11 USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0BDA&PID_8712,Realtek RTL8712 Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0BDA&PID_C047,Realtek RTL8188SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0CDE&PID_0030,Z-com,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0DF6&PID_0045,Sitecom Wireless Nano USB Adapter 150N WL-353,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0DF6&PID_0049,Sitecom Wireless High-Gain USB Adapter 300N X2 WL-356,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0DF6&PID_004B,Sitecom 150N Wireless USB Adapter WL-349v3,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0DF6&PID_004C,Sitecom 300N Wireless USB Adapter WL-352v3,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0DF6&PID_0057,Sitecom 150N Wireless USB Adapter WL-349v2 001,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0DF6&PID_0058,Sitecom 300N Wireless USB Adapter WL-352v2 001,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0DF6&PID_0059,Sitecom Wireless Network Micro USB Adapter 54g WL-608v3_001,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0DF6&PID_005B,Wireless Network USB Adapter 150N X1,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0DF6&PID_005D,Wireless Network USB Adapter 300N X2,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0DF6&PID_0061,Wireless High-gain Network Adapter 300N,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0DF6&PID_0063,Wireless Network USB Adapter 150N X1,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0DF6&PID_0064,Wireless Network USB Adapter 300N X2,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0DF6&PID_006B,WiFi USB Adapter N150,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0DF6&PID_006C,WiFi USB Adapter N300,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0E0B&PID_9063,Wireless LAN 802.11n USB2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0E66&PID_0015,Hawking Hi-Gain USB Wireless-N Dish Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0E66&PID_0016,Hawking Hi-Gain USB Wireless-G Dish Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_0EB0&PID_9061,802.11n Wireless USB Card,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3306,Realtek RTL8191SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3309&REV_0200&SS,Realtek RTL8191SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3309&SS,Realtek RTL8191SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3309,Realtek RTL8191SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3310,Realtek RTL8191SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3311,Realtek RTL8191SU Wireless LAN 802.11 USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3323,Realtek RTL8191SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3325,Realtek RTL8191SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3333,Realtek RTL8191SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3334,Realtek RTL8188SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3335,Realtek RTL8191SU Wireless LAN 802.11 USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3336,Realtek RTL8188SU Wireless LAN 802.11 USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3339&REV_0200&SS,Realtek RTL8188SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3339&SS,Realtek RTL8188SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3339,Realtek RTL8188SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3340&REV_0200&SS,Realtek RTL8188SU Wireless LAN 802.11 USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3340&SS,Realtek RTL8188SU Wireless LAN 802.11 USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3340,Realtek RTL8188SU Wireless LAN 802.11 USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3341&REV_0200&SS,Realtek RTL8191SU Wireless LAN 802.11 USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3341&SS,Realtek RTL8191SU Wireless LAN 802.11 USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3341,Realtek RTL8191SU Wireless LAN 802.11 USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_13D3&PID_3342,Realtek RTL8188SU Wireless LAN 802.11 USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_14B2&PID_3300,Skyworth DWA-130-1 Wireless N USB Adapter (rev.C2),net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_14B2&PID_3301,Skyworth DWA-130-2 Wireless N USB Adapter (rev.C2),net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_14B2&PID_3302,Skyworth DWA-130-3 Wireless N USB Adapter (rev.C2),net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_1690&PID_0752&REV_0200&SS,Realtek RTL8188SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_1690&PID_0752&SS,Realtek RTL8188SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_1690&PID_0752,Realtek RTL8188SU Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_1740&PID_9603,EnGenius 802.11n Wireless USB Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_1740&PID_9605,EnGenius 802.11n Wireless USB Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_177F&PID_0154,Sweex LW154 Wireless 150N Nano Adapter USB,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_1B75&PID_8171,WN-370USB Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_1B75&PID_8172,WN-380USB Wireless LAN 802.11n USB 2.0 Network Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_2001&PID_3306,D-Link DWL-G122 Wireless G USB Adapter (rev.F1),net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_2019&PID_4901,GW-USSuper300,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_2019&PID_AB28,GW-USNano,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_20F4&PID_646B,High Power 150Mbps Wireless N USB Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_5A57&PID_0291,802.11b/g/n USB Wireless LAN Card,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_7392&PID_7611,Edimax 802.11n Wireless USB Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_7392&PID_7612,Edimax 802.11n Wireless USB Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
+USB\VID_7392&PID_7622,Edimax 802.11n Wireless USB Adapter,net8192su64\net8192su64.inf,03/30/2013 v1086.51.0328.2013
