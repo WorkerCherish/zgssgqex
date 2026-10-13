@@ -1,0 +1,73 @@
+PCI\VEN_11AB&DEV_2B30&SUBSYS_11AB2B30&REV_00,Marvell AVASTAR Wireless-N Network Controller,Wlan.Marvell\mwlp66w7.inf,09/15/2011 v14.66.8025.32
+PCI\VEN_14E4&DEV_0576&SUBSYS_057614E4,2x2 11a/b/g/n Wireless LAN PCI Express Half Mini Card Adapter,Wlan.Broadcom\E430\bcmwl6.inf,10/14/2014 v7.12.39.12
+PCI\VEN_14E4&DEV_0576,2x2 11a/b/g/n Wireless LAN PCI Express Half Mini Card Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4303,Broadcom 802.11b Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4311,Broadcom 802.11g Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4312,Broadcom 802.11 Multiband Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4313,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4314,Broadcom 802.11 Multiband Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4315,Broadcom 802.11g Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4316,Broadcom 802.11a Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4318,Broadcom 802.11g Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4319,Broadcom 802.11 Multiband Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_431A,Broadcom 802.11a Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4320&REV_03,Broadcom 802.11g Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4321&REV_03,Broadcom 802.11a Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4322,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4324&REV_03,Broadcom 802.11 Multiband Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4328,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4329,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_432A,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_432b,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_432c,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4331,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4332,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4333,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4335,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4340,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4341,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4350,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4351,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4353,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4354,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4357,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4358,2x2 11b/g/n Wireless LAN PCI Express Half Mini Card Adapter,Wlan.Broadcom\E430\bcmwl6.inf,10/14/2014 v7.12.39.12
+PCI\VEN_14E4&DEV_4358,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4359&SUBSYS_060714E4,2x2 11a/b/g/n Wireless LAN PCI Express Half Mini Card Adapter,Wlan.Broadcom\E430\bcmwl6.inf,10/14/2014 v7.12.39.12
+PCI\VEN_14E4&DEV_4359,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_435A,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4360,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4364,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4365,1x1 11b/g/n Wireless LAN PCI Express Half Mini Card Adapter,Wlan.Broadcom\E430\bcmwl6.inf,10/14/2014 v7.12.39.12
+PCI\VEN_14E4&DEV_4365,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_43A0,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_43A2,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_43A3,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_43AE,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_43AE,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\E430\bcmwl6.inf,10/14/2014 v7.12.39.12
+PCI\VEN_14E4&DEV_43B1,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_43B1,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\E430\bcmwl6.inf,10/14/2014 v7.12.39.12
+PCI\VEN_14E4&DEV_43B2,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_43B3,Broadcom 802.11ac Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4716,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4722,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_4727&SUBSYS_060814E4,1x1 11b/g/n Wireless LAN PCI Express Half Mini Card Adapter,Wlan.Broadcom\E430\bcmwl6.inf,10/14/2014 v7.12.39.12
+PCI\VEN_14E4&DEV_4727&SUBSYS_060914E4,1x1 11b/g/n Wireless LAN PCI Express Half Mini Card Adapter,Wlan.Broadcom\E430\bcmwl6.inf,10/14/2014 v7.12.39.12
+PCI\VEN_14E4&DEV_4727,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_A886,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_A8D6,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_A8D8,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_A8DA,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_A8DB,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+PCI\VEN_14E4&DEV_A8DC,Broadcom 802.11n Network Adapter,Wlan.Broadcom\All_6.34.223.5\bcmwl6.inf,09/04/2014 v6.34.223.5
+SD\VID_02D0&PID_4324&FN_2,bcmfn2 Device,Wlan.Broadcom\BCM4330\bcmfn2.inf,08/30/2012 v20.43.14.119
+SD\VID_02D0&PID_4330&FN_1,Broadcom 802.11abgn Wireless SDIO Adapter,Wlan.Broadcom\BCM4330\bcmdhd63.inf,10/18/2012 v5.93.97.83
+SD\VID_02D0&PID_4330&FN_2,bcmfn2 Device,Wlan.Broadcom\BCM4330\bcmfn2.inf,08/30/2012 v20.43.14.119
+USB\VID_0A5C&PID_43A2,BT802.11ac Wireless USB Adapter,Wlan.Broadcom\USB\0A5C\bcmwlhigh6.inf,02/05/2013 v6.30.145.26
+USB\VID_0A5C&PID_BD13,BT Dual-Band Wi-Fi Dongle,Wlan.Broadcom\USB\0A5C\bcmwlhigh6.inf,02/05/2013 v6.30.145.26
+USB\VID_0A5C&PID_BD16,BT Dual-Band Wi-Fi Dongle,Wlan.Broadcom\USB\0A5C\bcmwlhigh6.inf,02/05/2013 v6.30.145.26
+USB\VID_0A5C&PID_BD17,BT Dual-Band Wi-Fi Dongle,Wlan.Broadcom\USB\0A5C\bcmwlhigh6.inf,02/05/2013 v6.30.145.26
+USB\VID_0A5C&PID_BD1D,BT802.11ac Wireless USB Adapter,Wlan.Broadcom\USB\0A5C\bcmwlhigh6.inf,02/05/2013 v6.30.145.26
+USB\VID_0A5C&PID_BD1E,BT Dual-Band Wi-Fi Dongle,Wlan.Broadcom\USB\0A5C\bcmwlhigh6.inf,02/05/2013 v6.30.145.26
+USB\VID_0A5C&PID_BD1F,BT Dual-Band Wi-Fi Dongle,Wlan.Broadcom\USB\0A5C\bcmwlhigh6.inf,02/05/2013 v6.30.145.26
+USB\VID_0B05&PID_17C9,ASUS 802.11ac Wireless USB Adapter,Wlan.Broadcom\USB\0B05\bcmwlhigh6.inf,11/15/2012 v6.30.145.9
