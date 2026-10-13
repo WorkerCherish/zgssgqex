@@ -1,0 +1,186 @@
+HID\ASCE1200&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCE1201&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCE1202&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCE1203&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCE1204&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCE1205&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCE1206&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCE1207&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCE1208&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCE1209&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCF1200&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCF1201&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCF1202&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCF1203&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCF1204&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCF1205&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCF1206&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCF1207&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCF1208&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCF1209&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCP1200&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCP1201&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCP1202&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCP1203&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCP1204&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCP1205&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCP1206&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCP1207&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCP1208&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASCP1209&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1200&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1201&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1202&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1203&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1204&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1205&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1206&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1207&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1208&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1209&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE120A&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE120B&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE120C&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE120D&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE120E&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE120F&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1210&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1211&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1212&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1213&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1214&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1215&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1216&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1300&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1301&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1302&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1303&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1304&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1305&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1306&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1307&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1308&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1309&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE130A&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1900&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUE1B00&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUF1200&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUF1201&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUF1202&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUF1203&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUF1204&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUF1205&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUF1206&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUF1207&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUF1208&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUF1209&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUF1300&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUF1301&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUF1302&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUF1303&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUF1304&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUF1305&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUF1306&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUG1200&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUG1300&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUG1301&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1200&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1201&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1202&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1203&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1204&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1205&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1206&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1207&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1208&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1300&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1301&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1302&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1303&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1304&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1305&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1306&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1307&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ASUP1308&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ELAN1200&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ELAN1201&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ELAN1202&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ELAN1203&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ELAN1204&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ELAN1205&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ELAN1206&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ELAN1207&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ELAN1214&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ELAN1300&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\ELAN1301&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\FTE1200&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\FTE1201&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\FTE1202&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\FTE1300&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\FTE1301&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\GDX1200&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\GDX1300&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\GDX1301&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_04F3&PID_3067&MI_01&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_093A&PID_300A&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_0B05&PID_182F&MI_02&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_0B05&PID_1838&MI_02&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_0B05&PID_1839&MI_02&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_0B05&PID_183B&MI_02&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_0B05&PID_183D&MI_02&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_0B05&PID_184A&MI_01&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_0B05&PID_184B&MI_01&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_0B05&PID_1879&Col03,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_0B05&PID_1879&MI_02&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_0B05&PID_19B6&MI_03&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_0B05&PID_1A29&MI_01&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_0B05&PID_1A30&MI_03&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_0B05&PID_1A3E&MI_01&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_0B05&PID_1AAD&MI_01&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_0B05&PID_1AC4&MI_01&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_0B05&PID_1B2C&MI_05&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+HID\VID_0B05&PID_1B6E&MI_01&Col02,ASUS Precision Touchpad,Asus_Precision_TouchPad_DCH\asusptpfilter.inf,07/22/2024 v16.0.0.29
+PCI\VEN_8086&DEV_0D9F&REV_02,Intel(R) Ethernet Controller (2) I225-IT,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_0D9F&REV_02,Intel(R) Ethernet Controller (2) I225-IT,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_0D9F&REV_03,Intel(R) Ethernet Controller (3) I225-IT,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_0D9F&REV_03,Intel(R) Ethernet Controller (3) I225-IT,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_125B&SUBSYS_00018086,Intel(R) Ethernet Network Adapter I226-T1,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_125B&SUBSYS_00018086,Intel(R) Ethernet Network Adapter I226-T1,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_125B&SUBSYS_00028086,Intel(R) Ethernet Network Adapter I226-T1,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_125B&SUBSYS_00028086,Intel(R) Ethernet Network Adapter I226-T1,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_125B,Intel(R) Ethernet Controller I226-LM,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_125B,Intel(R) Ethernet Controller I226-LM,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_125C,Intel(R) Ethernet Controller I226-V,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_125C,Intel(R) Ethernet Controller I226-V,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_125D,Intel(R) Ethernet Controller I226-IT,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_125D,Intel(R) Ethernet Controller I226-IT,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_15F2&REV_01,Intel(R) Ethernet Controller I225-LM,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_15F2&REV_01,Intel(R) Ethernet Controller I225-LM,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_15F2&REV_02,Intel(R) Ethernet Controller (2) I225-LM,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_15F2&REV_02,Intel(R) Ethernet Controller (2) I225-LM,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_15F2&REV_03,Intel(R) Ethernet Controller (3) I225-LM,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_15F2&REV_03,Intel(R) Ethernet Controller (3) I225-LM,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_15F2&SUBSYS_00018086,Intel(R) Ethernet Network Adapter I225-T1,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_15F2&SUBSYS_00018086,Intel(R) Ethernet Network Adapter I225-T1,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_15F2&SUBSYS_00028086,Intel(R) Ethernet Network Adapter I225-T1,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_15F2&SUBSYS_00028086,Intel(R) Ethernet Network Adapter I225-T1,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_15F3&REV_01,Intel(R) Ethernet Controller I225-V,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_15F3&REV_01,Intel(R) Ethernet Controller I225-V,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_15F3&REV_02,Intel(R) Ethernet Controller (2) I225-V,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_15F3&REV_02,Intel(R) Ethernet Controller (2) I225-V,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_15F3&REV_03,Intel(R) Ethernet Controller (3) I225-V,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_15F3&REV_03,Intel(R) Ethernet Controller (3) I225-V,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_3100&REV_01,Killer E3100 2.5 Gigabit Ethernet Controller,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_3100&REV_01,Killer E3100 2.5 Gigabit Ethernet Controller,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_3101&REV_02,Killer E3100X 2.5 Gigabit Ethernet Controller,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_3101&REV_02,Killer E3100X 2.5 Gigabit Ethernet Controller,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_3101&REV_03,Killer E3100X 2.5 Gigabit Ethernet Controller (2),Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_3101&REV_03,Killer E3100X 2.5 Gigabit Ethernet Controller (2),Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_3102,Killer E3100X 2.5 Gigabit Ethernet Controller (3),Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_3102,Killer E3100X 2.5 Gigabit Ethernet Controller (3),Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_5502&REV_02,Intel(R) Ethernet Controller (2) I225-LMvP,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_5502&REV_02,Intel(R) Ethernet Controller (2) I225-LMvP,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_5502&REV_03,Intel(R) Ethernet Controller (3) I225-LMvP,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_5502&REV_03,Intel(R) Ethernet Controller (3) I225-LMvP,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_5503,Intel(R) Ethernet Controller I226-LMvP,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
+PCI\VEN_8086&DEV_5503,Intel(R) Ethernet Controller I226-LMvP,Intel_i225_LAN\e2fn.inf,10/03/2023 v2.1.4.2
